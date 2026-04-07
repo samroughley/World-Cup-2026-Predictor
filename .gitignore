@@ -2,4 +2,8 @@ __pycache__
 archive
 world_cup_env
 
+# Simulation files
 Monte Carlo Simulation/runs
+
+# Model states
+Modelling/XGBoost_regressor_model.json

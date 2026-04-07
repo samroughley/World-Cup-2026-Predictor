@@ -5,6 +5,9 @@ import json
 
 ## Load Data ##
 
+with open("config.json","r") as f:
+    config_file = json.load(f)
+
 # My Predictions
 with open("Monte Carlo Simulation/runs/quick_run/final_results.json","r") as f:
     simulation_results = json.load(f)
@@ -85,12 +88,16 @@ st.markdown("""
 
 
 
+
 ## Create Dashboard ##
 
 # Create page
 st.set_page_config(layout="wide",
                    page_title="WC 2026 Predictor",
                    page_icon="🏆")
+
+with st.sidebar:
+    st.markdown(f"*Version Number: {config_file['version_num']}*")
 
 
 st.title("🏆 2026 World Cup Probability Dashboard")

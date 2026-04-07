@@ -3,6 +3,8 @@ Perform the simulation for a (hybrid) Monte Carlo simulation.
 
 The simulation is hybrid since the group stages are still handled
 deterministically, and then sampled from their distribution.
+
+Currently not working very well (doesn't seem to improve speed much).
 """
 
 import json 
