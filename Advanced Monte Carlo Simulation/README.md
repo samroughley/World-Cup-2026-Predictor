@@ -1,1 +1,0 @@
-Contains the simulation using the more advanced models, expected to give better predictions, compared with `Monte Carlo Simulation`, which uses a simple ELO calculation / guesswork to handle ties.

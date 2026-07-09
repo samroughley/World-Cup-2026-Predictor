@@ -1,0 +1,362 @@
+{
+    "1": {
+        "home_team": "Mexico",
+        "away_team": "South Africa",
+        "home_adv": 1
+    },
+    "2": {
+        "home_team": "South Korea",
+        "away_team": "Czech Republic",
+        "home_adv": 0
+    },
+    "3": {
+        "home_team": "Canada",
+        "away_team": "Bosnia and Herzegovina",
+        "home_adv": 1
+    },
+    "4": {
+        "home_team": "United States",
+        "away_team": "Paraguay",
+        "home_adv": 1
+    },
+    "5": {
+        "home_team": "Qatar",
+        "away_team": "Switzerland",
+        "home_adv": 0
+    },
+    "6": {
+        "home_team": "Brazil",
+        "away_team": "Morocco",
+        "home_adv": 0
+    },
+    "7": {
+        "home_team": "Haiti",
+        "away_team": "Scotland",
+        "home_adv": 0
+    },
+    "8": {
+        "home_team": "Australia",
+        "away_team": "Turkey",
+        "home_adv": 0
+    },
+    "9": {
+        "home_team": "Germany",
+        "away_team": "Cura\u00e7ao",
+        "home_adv": 0
+    },
+    "10": {
+        "home_team": "Netherlands",
+        "away_team": "Japan",
+        "home_adv": 0
+    },
+    "11": {
+        "home_team": "Ivory Coast",
+        "away_team": "Ecuador",
+        "home_adv": 0
+    },
+    "12": {
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_adv": 0
+    },
+    "13": {
+        "home_team": "Spain",
+        "away_team": "Cape Verde",
+        "home_adv": 0
+    },
+    "14": {
+        "home_team": "Belgium",
+        "away_team": "Egypt",
+        "home_adv": 0
+    },
+    "15": {
+        "home_team": "Saudi Arabia",
+        "away_team": "Uruguay",
+        "home_adv": 0
+    },
+    "16": {
+        "home_team": "Iran",
+        "away_team": "New Zealand",
+        "home_adv": 0
+    },
+    "17": {
+        "home_team": "France",
+        "away_team": "Senegal",
+        "home_adv": 0
+    },
+    "18": {
+        "home_team": "Iraq",
+        "away_team": "Norway",
+        "home_adv": 0
+    },
+    "19": {
+        "home_team": "Argentina",
+        "away_team": "Algeria",
+        "home_adv": 0
+    },
+    "20": {
+        "home_team": "Austria",
+        "away_team": "Jordan",
+        "home_adv": 0
+    },
+    "21": {
+        "home_team": "Portugal",
+        "away_team": "DR Congo",
+        "home_adv": 0
+    },
+    "22": {
+        "home_team": "England",
+        "away_team": "Croatia",
+        "home_adv": 0
+    },
+    "23": {
+        "home_team": "Ghana",
+        "away_team": "Panama",
+        "home_adv": 0
+    },
+    "24": {
+        "home_team": "Uzbekistan",
+        "away_team": "Colombia",
+        "home_adv": 0
+    },
+    "25": {
+        "home_team": "Czech Republic",
+        "away_team": "South Africa",
+        "home_adv": 0
+    },
+    "26": {
+        "home_team": "Switzerland",
+        "away_team": "Bosnia and Herzegovina",
+        "home_adv": 0
+    },
+    "27": {
+        "home_team": "Canada",
+        "away_team": "Qatar",
+        "home_adv": 1
+    },
+    "28": {
+        "home_team": "Mexico",
+        "away_team": "South Korea",
+        "home_adv": 1
+    },
+    "29": {
+        "home_team": "United States",
+        "away_team": "Australia",
+        "home_adv": 1
+    },
+    "30": {
+        "home_team": "Scotland",
+        "away_team": "Morocco",
+        "home_adv": 0
+    },
+    "31": {
+        "home_team": "Brazil",
+        "away_team": "Haiti",
+        "home_adv": 0
+    },
+    "32": {
+        "home_team": "Turkey",
+        "away_team": "Paraguay",
+        "home_adv": 0
+    },
+    "33": {
+        "home_team": "Netherlands",
+        "away_team": "Sweden",
+        "home_adv": 0
+    },
+    "34": {
+        "home_team": "Germany",
+        "away_team": "Ivory Coast",
+        "home_adv": 0
+    },
+    "35": {
+        "home_team": "Ecuador",
+        "away_team": "Cura\u00e7ao",
+        "home_adv": 0
+    },
+    "36": {
+        "home_team": "Tunisia",
+        "away_team": "Japan",
+        "home_adv": 0
+    },
+    "37": {
+        "home_team": "Spain",
+        "away_team": "Saudi Arabia",
+        "home_adv": 0
+    },
+    "38": {
+        "home_team": "Belgium",
+        "away_team": "Iran",
+        "home_adv": 0
+    },
+    "39": {
+        "home_team": "Uruguay",
+        "away_team": "Cape Verde",
+        "home_adv": 0
+    },
+    "40": {
+        "home_team": "New Zealand",
+        "away_team": "Egypt",
+        "home_adv": 0
+    },
+    "41": {
+        "home_team": "Argentina",
+        "away_team": "Austria",
+        "home_adv": 0
+    },
+    "42": {
+        "home_team": "France",
+        "away_team": "Iraq",
+        "home_adv": 0
+    },
+    "43": {
+        "home_team": "Norway",
+        "away_team": "Senegal",
+        "home_adv": 0
+    },
+    "44": {
+        "home_team": "Jordan",
+        "away_team": "Algeria",
+        "home_adv": 0
+    },
+    "45": {
+        "home_team": "Portugal",
+        "away_team": "Uzbekistan",
+        "home_adv": 0
+    },
+    "46": {
+        "home_team": "England",
+        "away_team": "Ghana",
+        "home_adv": 0
+    },
+    "47": {
+        "home_team": "Panama",
+        "away_team": "Croatia",
+        "home_adv": 0
+    },
+    "48": {
+        "home_team": "Colombia",
+        "away_team": "DR Congo",
+        "home_adv": 0
+    },
+    "49": {
+        "home_team": "Switzerland",
+        "away_team": "Canada",
+        "home_adv": -1
+    },
+    "50": {
+        "home_team": "Bosnia and Herzegovina",
+        "away_team": "Qatar",
+        "home_adv": 0
+    },
+    "51": {
+        "home_team": "Morocco",
+        "away_team": "Haiti",
+        "home_adv": 0
+    },
+    "52": {
+        "home_team": "Scotland",
+        "away_team": "Brazil",
+        "home_adv": 0
+    },
+    "53": {
+        "home_team": "South Africa",
+        "away_team": "South Korea",
+        "home_adv": 0
+    },
+    "54": {
+        "home_team": "Czech Republic",
+        "away_team": "Mexico",
+        "home_adv": -1
+    },
+    "55": {
+        "home_team": "Cura\u00e7ao",
+        "away_team": "Ivory Coast",
+        "home_adv": 0
+    },
+    "56": {
+        "home_team": "Ecuador",
+        "away_team": "Germany",
+        "home_adv": 0
+    },
+    "57": {
+        "home_team": "Tunisia",
+        "away_team": "Netherlands",
+        "home_adv": 0
+    },
+    "58": {
+        "home_team": "Japan",
+        "away_team": "Sweden",
+        "home_adv": 0
+    },
+    "59": {
+        "home_team": "Turkey",
+        "away_team": "United States",
+        "home_adv": -1
+    },
+    "60": {
+        "home_team": "Paraguay",
+        "away_team": "Australia",
+        "home_adv": 0
+    },
+    "61": {
+        "home_team": "Norway",
+        "away_team": "France",
+        "home_adv": 0
+    },
+    "62": {
+        "home_team": "Senegal",
+        "away_team": "Iraq",
+        "home_adv": 0
+    },
+    "63": {
+        "home_team": "Cape Verde",
+        "away_team": "Saudi Arabia",
+        "home_adv": 0
+    },
+    "64": {
+        "home_team": "Uruguay",
+        "away_team": "Spain",
+        "home_adv": 0
+    },
+    "65": {
+        "home_team": "New Zealand",
+        "away_team": "Belgium",
+        "home_adv": 0
+    },
+    "66": {
+        "home_team": "Egypt",
+        "away_team": "Iran",
+        "home_adv": 0
+    },
+    "67": {
+        "home_team": "Panama",
+        "away_team": "England",
+        "home_adv": 0
+    },
+    "68": {
+        "home_team": "Croatia",
+        "away_team": "Ghana",
+        "home_adv": 0
+    },
+    "69": {
+        "home_team": "Colombia",
+        "away_team": "Portugal",
+        "home_adv": 0
+    },
+    "70": {
+        "home_team": "DR Congo",
+        "away_team": "Uzbekistan",
+        "home_adv": 0
+    },
+    "71": {
+        "home_team": "Algeria",
+        "away_team": "Austria",
+        "home_adv": 0
+    },
+    "72": {
+        "home_team": "Jordan",
+        "away_team": "Argentina",
+        "home_adv": 0
+    }
+}

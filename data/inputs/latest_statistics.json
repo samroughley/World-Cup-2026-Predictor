@@ -1,0 +1,2670 @@
+{
+    "Provence": {
+        "Elo": 1465.458518334519,
+        "Num. Matches": 19,
+        "Goals Scored EMA Short": 3.815488152973954,
+        "Goals Conceeded EMA Short": 2.5520627334046346,
+        "Goals Scored EMA Long": 3.0323985707206185,
+        "Goals Conceeded EMA Long": 2.4724754009753562
+    },
+    "Arameans Suryoye": {
+        "Elo": 1547.0498461748289,
+        "Num. Matches": 10,
+        "Goals Scored EMA Short": 1.72600836096,
+        "Goals Conceeded EMA Short": 1.41303105536,
+        "Goals Scored EMA Long": 1.5622895700400004,
+        "Goals Conceeded EMA Long": 1.3444342161400005
+    },
+    "Belarus": {
+        "Elo": 1564.1754040554888,
+        "Num. Matches": 313,
+        "Goals Scored EMA Short": 1.1939506891334117,
+        "Goals Conceeded EMA Short": 1.5185608729337792,
+        "Goals Scored EMA Long": 1.132858998302871,
+        "Goals Conceeded EMA Long": 1.6466311001823921
+    },
+    "\u00c5land Islands": {
+        "Elo": 1473.343593888431,
+        "Num. Matches": 51,
+        "Goals Scored EMA Short": 0.8482897592910865,
+        "Goals Conceeded EMA Short": 1.6464969545145742,
+        "Goals Scored EMA Long": 1.0803681304331145,
+        "Goals Conceeded EMA Long": 1.6232507028055556
+    },
+    "Saint Helena": {
+        "Elo": 1348.6372295146339,
+        "Num. Matches": 8,
+        "Goals Scored EMA Short": 0.8531159040000003,
+        "Goals Conceeded EMA Short": 4.092719104000001,
+        "Goals Scored EMA Long": 1.0170675740000004,
+        "Goals Conceeded EMA Long": 3.3764875240000003
+    },
+    "Somaliland": {
+        "Elo": 1477.6491170575414,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 2.4020736000000005,
+        "Goals Conceeded EMA Short": 2.8756736000000003,
+        "Goals Scored EMA Long": 1.9351154000000002,
+        "Goals Conceeded EMA Long": 2.3166654
+    },
+    "Antigua and Barbuda": {
+        "Elo": 1142.193983450342,
+        "Num. Matches": 231,
+        "Goals Scored EMA Short": 0.3958143938298963,
+        "Goals Conceeded EMA Short": 2.1188698932074432,
+        "Goals Scored EMA Long": 0.578634633219975,
+        "Goals Conceeded EMA Long": 2.252876254391162
+    },
+    "Saudi Arabia": {
+        "Elo": 1680.2929911059932,
+        "Num. Matches": 738,
+        "Goals Scored EMA Short": 0.8938314571413315,
+        "Goals Conceeded EMA Short": 1.6860392628786331,
+        "Goals Scored EMA Long": 1.0231927219439214,
+        "Goals Conceeded EMA Long": 1.3680985884510657
+    },
+    "Angola": {
+        "Elo": 1581.7348484842103,
+        "Num. Matches": 413,
+        "Goals Scored EMA Short": 0.9575276124464822,
+        "Goals Conceeded EMA Short": 1.0736445145224989,
+        "Goals Scored EMA Long": 1.0439324316954472,
+        "Goals Conceeded EMA Long": 0.9962646680758672
+    },
+    "Corsica": {
+        "Elo": 1555.196181250119,
+        "Num. Matches": 9,
+        "Goals Scored EMA Short": 1.1108344832000001,
+        "Goals Conceeded EMA Short": 0.7241966592000002,
+        "Goals Scored EMA Long": 1.2092342266000005,
+        "Goals Conceeded EMA Long": 0.8989724746000003
+    },
+    "Senegal": {
+        "Elo": 1924.626902266998,
+        "Num. Matches": 636,
+        "Goals Scored EMA Short": 2.0630680879667893,
+        "Goals Conceeded EMA Short": 0.7714465644954562,
+        "Goals Scored EMA Long": 2.168820757923824,
+        "Goals Conceeded EMA Long": 0.6548754502201748
+    },
+    "France": {
+        "Elo": 2129.32915583198,
+        "Num. Matches": 933,
+        "Goals Scored EMA Short": 2.603935188631411,
+        "Goals Conceeded EMA Short": 0.9289544167242487,
+        "Goals Scored EMA Long": 2.359125159927113,
+        "Goals Conceeded EMA Long": 0.9440910181270332
+    },
+    "Republic of St. Pauli": {
+        "Elo": 1480.800244041264,
+        "Num. Matches": 4,
+        "Goals Scored EMA Short": 1.93184,
+        "Goals Conceeded EMA Short": 1.39584,
+        "Goals Scored EMA Long": 1.7484400000000007,
+        "Goals Conceeded EMA Long": 1.37144
+    },
+    "Saint Barth\u00e9lemy": {
+        "Elo": 1419.8778143409004,
+        "Num. Matches": 10,
+        "Goals Scored EMA Short": 2.6975474073600005,
+        "Goals Conceeded EMA Short": 2.4456144281600007,
+        "Goals Scored EMA Long": 2.243185107140001,
+        "Goals Conceeded EMA Long": 2.290279410840001
+    },
+    "Oman": {
+        "Elo": 1594.0571310691842,
+        "Num. Matches": 542,
+        "Goals Scored EMA Short": 0.8424516563206863,
+        "Goals Conceeded EMA Short": 0.8967644985037981,
+        "Goals Scored EMA Long": 0.8518259043268268,
+        "Goals Conceeded EMA Long": 0.9215408501126127
+    },
+    "Menorca": {
+        "Elo": 1566.1540591985395,
+        "Num. Matches": 25,
+        "Goals Scored EMA Short": 1.5195006331921401,
+        "Goals Conceeded EMA Short": 1.49496311492768,
+        "Goals Scored EMA Long": 1.8390966952731909,
+        "Goals Conceeded EMA Long": 1.361094172207788
+    },
+    "British Virgin Islands": {
+        "Elo": 1046.5787784123422,
+        "Num. Matches": 121,
+        "Goals Scored EMA Short": 2.1244874814350263,
+        "Goals Conceeded EMA Short": 1.1928286379497908,
+        "Goals Scored EMA Long": 1.4828000932758352,
+        "Goals Conceeded EMA Long": 1.7113677240500758
+    },
+    "Iraqi Kurdistan": {
+        "Elo": 1646.1413809634846,
+        "Num. Matches": 27,
+        "Goals Scored EMA Short": 1.7923899539459984,
+        "Goals Conceeded EMA Short": 0.8150015317073653,
+        "Goals Scored EMA Long": 2.064259150084022,
+        "Goals Conceeded EMA Long": 0.9102658518012355
+    },
+    "Australia": {
+        "Elo": 1905.2212480776875,
+        "Num. Matches": 579,
+        "Goals Scored EMA Short": 1.8400365384104094,
+        "Goals Conceeded EMA Short": 1.0065084104026358,
+        "Goals Scored EMA Long": 1.7795773298745503,
+        "Goals Conceeded EMA Long": 0.8644130369823718
+    },
+    "Macau": {
+        "Elo": 878.729340719728,
+        "Num. Matches": 145,
+        "Goals Scored EMA Short": 0.36543298708550487,
+        "Goals Conceeded EMA Short": 3.135832816851893,
+        "Goals Scored EMA Long": 0.49192059859271847,
+        "Goals Conceeded EMA Long": 2.6030247842388445
+    },
+    "Cambodia": {
+        "Elo": 1053.6910744102481,
+        "Num. Matches": 293,
+        "Goals Scored EMA Short": 1.2228036257158992,
+        "Goals Conceeded EMA Short": 1.7866242885932373,
+        "Goals Scored EMA Long": 1.2562436043288379,
+        "Goals Conceeded EMA Long": 1.8274511453637117
+    },
+    "Sz\u00e9kely Land": {
+        "Elo": 1496.0539175763117,
+        "Num. Matches": 27,
+        "Goals Scored EMA Short": 2.8443902248528294,
+        "Goals Conceeded EMA Short": 1.911935760759953,
+        "Goals Scored EMA Long": 2.322912495794474,
+        "Goals Conceeded EMA Long": 1.9745909628718799
+    },
+    "Sierra Leone": {
+        "Elo": 1475.3620030970726,
+        "Num. Matches": 299,
+        "Goals Scored EMA Short": 1.1523996401261545,
+        "Goals Conceeded EMA Short": 1.0523024085730541,
+        "Goals Scored EMA Long": 1.1263316320188232,
+        "Goals Conceeded EMA Long": 1.2857069903416989
+    },
+    "Iran": {
+        "Elo": 1878.9992110884484,
+        "Num. Matches": 610,
+        "Goals Scored EMA Short": 1.91546472843411,
+        "Goals Conceeded EMA Short": 0.6743539195693468,
+        "Goals Scored EMA Long": 1.8842055723163853,
+        "Goals Conceeded EMA Long": 0.7482615538106601
+    },
+    "Sri Lanka": {
+        "Elo": 1012.1350244904972,
+        "Num. Matches": 248,
+        "Goals Scored EMA Short": 0.7690800961217882,
+        "Goals Conceeded EMA Short": 1.7534584607639905,
+        "Goals Scored EMA Long": 0.7832630400332561,
+        "Goals Conceeded EMA Long": 1.5185349405074358
+    },
+    "Kuwait": {
+        "Elo": 1459.8530191292969,
+        "Num. Matches": 683,
+        "Goals Scored EMA Short": 1.2980214549624922,
+        "Goals Conceeded EMA Short": 2.0897558368761455,
+        "Goals Scored EMA Long": 1.2160576882734986,
+        "Goals Conceeded EMA Long": 1.888964011697579
+    },
+    "Shetland": {
+        "Elo": 1503.2461609082347,
+        "Num. Matches": 58,
+        "Goals Scored EMA Short": 2.084276942428971,
+        "Goals Conceeded EMA Short": 1.8862651100516152,
+        "Goals Scored EMA Long": 2.035092705760984,
+        "Goals Conceeded EMA Long": 1.8871418304698397
+    },
+    "Cape Verde": {
+        "Elo": 1656.498819257714,
+        "Num. Matches": 233,
+        "Goals Scored EMA Short": 1.4437999330736635,
+        "Goals Conceeded EMA Short": 1.2939092507130532,
+        "Goals Scored EMA Long": 1.3838578176276188,
+        "Goals Conceeded EMA Long": 1.0909185226415172
+    },
+    "Gozo": {
+        "Elo": 1469.2742099927682,
+        "Num. Matches": 14,
+        "Goals Scored EMA Short": 1.7973788077916164,
+        "Goals Conceeded EMA Short": 1.5526186787471365,
+        "Goals Scored EMA Long": 1.9103837355679447,
+        "Goals Conceeded EMA Long": 1.6173603074940246
+    },
+    "Lebanon": {
+        "Elo": 1450.1260066243467,
+        "Num. Matches": 333,
+        "Goals Scored EMA Short": 1.9240994673710745,
+        "Goals Conceeded EMA Short": 0.6909517124808487,
+        "Goals Scored EMA Long": 1.653149627742877,
+        "Goals Conceeded EMA Long": 0.7799334927225026
+    },
+    "Eswatini": {
+        "Elo": 1314.1562869021732,
+        "Num. Matches": 274,
+        "Goals Scored EMA Short": 0.6984049968152679,
+        "Goals Conceeded EMA Short": 2.3424040125035064,
+        "Goals Scored EMA Long": 0.7191858564260342,
+        "Goals Conceeded EMA Long": 2.002403340423239
+    },
+    "Raetia": {
+        "Elo": 1408.8087039946936,
+        "Num. Matches": 26,
+        "Goals Scored EMA Short": 3.2529474278763644,
+        "Goals Conceeded EMA Short": 2.52769897390805,
+        "Goals Scored EMA Long": 2.373304626400266,
+        "Goals Conceeded EMA Long": 3.0862409232248162
+    },
+    "Hong Kong": {
+        "Elo": 1342.5164880001819,
+        "Num. Matches": 444,
+        "Goals Scored EMA Short": 1.9925745644869661,
+        "Goals Conceeded EMA Short": 1.19117100401337,
+        "Goals Scored EMA Long": 1.9373485050569927,
+        "Goals Conceeded EMA Long": 1.0594724681476566
+    },
+    "Peru": {
+        "Elo": 1756.0648515090272,
+        "Num. Matches": 712,
+        "Goals Scored EMA Short": 0.8037784008277616,
+        "Goals Conceeded EMA Short": 1.6077521546977729,
+        "Goals Scored EMA Long": 0.6853207000412943,
+        "Goals Conceeded EMA Long": 1.361029256023528
+    },
+    "Jordan": {
+        "Elo": 1772.8265679221067,
+        "Num. Matches": 479,
+        "Goals Scored EMA Short": 1.8569985414754298,
+        "Goals Conceeded EMA Short": 1.5205636955970459,
+        "Goals Scored EMA Long": 1.7621305020626163,
+        "Goals Conceeded EMA Long": 1.3448512802351567
+    },
+    "Burkina Faso": {
+        "Elo": 1653.379129711091,
+        "Num. Matches": 462,
+        "Goals Scored EMA Short": 1.9590375799972477,
+        "Goals Conceeded EMA Short": 0.9175914604707482,
+        "Goals Scored EMA Long": 1.904898281712568,
+        "Goals Conceeded EMA Long": 0.9149372298341276
+    },
+    "San Marino": {
+        "Elo": 901.6818954008817,
+        "Num. Matches": 223,
+        "Goals Scored EMA Short": 0.4278398252013209,
+        "Goals Conceeded EMA Short": 3.120296324803579,
+        "Goals Scored EMA Long": 0.44438761111356434,
+        "Goals Conceeded EMA Long": 3.136341190020163
+    },
+    "Puerto Rico": {
+        "Elo": 1366.105947601336,
+        "Num. Matches": 162,
+        "Goals Scored EMA Short": 1.7644546307542108,
+        "Goals Conceeded EMA Short": 1.4996635253453832,
+        "Goals Scored EMA Long": 1.8574120305433481,
+        "Goals Conceeded EMA Long": 1.5674217742763
+    },
+    "Lithuania": {
+        "Elo": 1357.0283107936589,
+        "Num. Matches": 431,
+        "Goals Scored EMA Short": 0.6267746027190272,
+        "Goals Conceeded EMA Short": 1.7377031956683102,
+        "Goals Scored EMA Long": 0.6836442145297047,
+        "Goals Conceeded EMA Long": 1.7116607316102077
+    },
+    "Brittany": {
+        "Elo": 1502.1882353447659,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 1.2262099001344005,
+        "Goals Conceeded EMA Short": 1.0200821039104002,
+        "Goals Scored EMA Long": 1.3731835466224007,
+        "Goals Conceeded EMA Long": 1.2094589505834008
+    },
+    "Basque Country": {
+        "Elo": 1790.514261092113,
+        "Num. Matches": 58,
+        "Goals Scored EMA Short": 2.1182797967567137,
+        "Goals Conceeded EMA Short": 0.9083189992615037,
+        "Goals Scored EMA Long": 2.289528505763515,
+        "Goals Conceeded EMA Long": 1.0114674046400214
+    },
+    "Occitania": {
+        "Elo": 1686.068118198508,
+        "Num. Matches": 33,
+        "Goals Scored EMA Short": 2.910058460798293,
+        "Goals Conceeded EMA Short": 0.712465121886882,
+        "Goals Scored EMA Long": 3.096025469370941,
+        "Goals Conceeded EMA Long": 0.8379902113318799
+    },
+    "Isle of Wight": {
+        "Elo": 1660.2587902880782,
+        "Num. Matches": 48,
+        "Goals Scored EMA Short": 1.9547123484246223,
+        "Goals Conceeded EMA Short": 1.2277997534259684,
+        "Goals Scored EMA Long": 2.2040540541055336,
+        "Goals Conceeded EMA Long": 1.2182279195858166
+    },
+    "Palestine": {
+        "Elo": 1586.3216862884133,
+        "Num. Matches": 241,
+        "Goals Scored EMA Short": 0.8770869795069332,
+        "Goals Conceeded EMA Short": 1.034626757309407,
+        "Goals Scored EMA Long": 0.9399561289342623,
+        "Goals Conceeded EMA Long": 1.0953671810025372
+    },
+    "Dominican Republic": {
+        "Elo": 1469.0787425374235,
+        "Num. Matches": 158,
+        "Goals Scored EMA Short": 1.3019594439350395,
+        "Goals Conceeded EMA Short": 1.1404405674887759,
+        "Goals Scored EMA Long": 1.7410175698710166,
+        "Goals Conceeded EMA Long": 1.1959063070210523
+    },
+    "Tahiti": {
+        "Elo": 1511.5543127321696,
+        "Num. Matches": 242,
+        "Goals Scored EMA Short": 1.3357112244034681,
+        "Goals Conceeded EMA Short": 1.4951407487847188,
+        "Goals Scored EMA Long": 1.6654554108559103,
+        "Goals Conceeded EMA Long": 1.3797942169497677
+    },
+    "Cilento": {
+        "Elo": 1490.6750949297161,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.1199999999999999,
+        "Goals Conceeded EMA Short": 1.52,
+        "Goals Scored EMA Long": 1.26,
+        "Goals Conceeded EMA Long": 1.46
+    },
+    "Rhodes": {
+        "Elo": 1591.7089307581957,
+        "Num. Matches": 18,
+        "Goals Scored EMA Short": 1.6240249480975224,
+        "Goals Conceeded EMA Short": 1.0476106991178615,
+        "Goals Scored EMA Long": 1.6050936747409585,
+        "Goals Conceeded EMA Long": 1.0978849392467875
+    },
+    "Malawi": {
+        "Elo": 1442.25394297887,
+        "Num. Matches": 642,
+        "Goals Scored EMA Short": 0.7874396836753006,
+        "Goals Conceeded EMA Short": 0.7645600779690396,
+        "Goals Scored EMA Long": 0.902635762961509,
+        "Goals Conceeded EMA Long": 0.9620900251051
+    },
+    "Spain": {
+        "Elo": 2209.0879311113677,
+        "Num. Matches": 781,
+        "Goals Scored EMA Short": 2.5069354628632756,
+        "Goals Conceeded EMA Short": 0.587562080430499,
+        "Goals Scored EMA Long": 2.683344794672621,
+        "Goals Conceeded EMA Long": 0.7828196992986179
+    },
+    "North Korea": {
+        "Elo": 1501.8166492620792,
+        "Num. Matches": 390,
+        "Goals Scored EMA Short": 0.9444577931485786,
+        "Goals Conceeded EMA Short": 2.2269034887686185,
+        "Goals Scored EMA Long": 1.0599534871124703,
+        "Goals Conceeded EMA Long": 1.8676327888237167
+    },
+    "Seborga": {
+        "Elo": 1486.4343443689017,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.52,
+        "Goals Conceeded EMA Short": 1.72,
+        "Goals Scored EMA Long": 1.46,
+        "Goals Conceeded EMA Long": 1.56
+    },
+    "Kenya": {
+        "Elo": 1470.2278520455795,
+        "Num. Matches": 705,
+        "Goals Scored EMA Short": 1.469844748712986,
+        "Goals Conceeded EMA Short": 1.881227781569216,
+        "Goals Scored EMA Long": 1.3425276328972309,
+        "Goals Conceeded EMA Long": 1.6504355822947443
+    },
+    "Guinea-Bissau": {
+        "Elo": 1358.2051616314925,
+        "Num. Matches": 190,
+        "Goals Scored EMA Short": 0.5666608745068378,
+        "Goals Conceeded EMA Short": 1.7210929417328522,
+        "Goals Scored EMA Long": 0.654788391640311,
+        "Goals Conceeded EMA Long": 1.5651683357359607
+    },
+    "Bolivia": {
+        "Elo": 1733.9270337171943,
+        "Num. Matches": 532,
+        "Goals Scored EMA Short": 1.1270211450132848,
+        "Goals Conceeded EMA Short": 1.381452873423017,
+        "Goals Scored EMA Long": 0.95872854585852,
+        "Goals Conceeded EMA Long": 1.570530094301289
+    },
+    "Barbados": {
+        "Elo": 1141.2411651473114,
+        "Num. Matches": 302,
+        "Goals Scored EMA Short": 1.4783278622834897,
+        "Goals Conceeded EMA Short": 2.3961021736173267,
+        "Goals Scored EMA Long": 1.5603830831997876,
+        "Goals Conceeded EMA Long": 2.367986737660556
+    },
+    "Bosnia and Herzegovina": {
+        "Elo": 1639.2356501600786,
+        "Num. Matches": 281,
+        "Goals Scored EMA Short": 1.7189709606558004,
+        "Goals Conceeded EMA Short": 1.1796767364202394,
+        "Goals Scored EMA Long": 1.5894197068872686,
+        "Goals Conceeded EMA Long": 1.417702038130704
+    },
+    "Chagos Islands": {
+        "Elo": 1359.0404045563805,
+        "Num. Matches": 16,
+        "Goals Scored EMA Short": 1.383090403399435,
+        "Goals Conceeded EMA Short": 5.665229392893707,
+        "Goals Scored EMA Long": 1.5060130248846106,
+        "Goals Conceeded EMA Long": 4.5924681732109445
+    },
+    "DR Congo": {
+        "Elo": 1765.6377533646207,
+        "Num. Matches": 522,
+        "Goals Scored EMA Short": 1.3464290374377719,
+        "Goals Conceeded EMA Short": 0.3777926266630514,
+        "Goals Scored EMA Long": 1.3646109746890693,
+        "Goals Conceeded EMA Long": 0.48441858092064666
+    },
+    "Madrid": {
+        "Elo": 1489.452117644884,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.3199999999999998,
+        "Goals Conceeded EMA Short": 1.52,
+        "Goals Scored EMA Long": 1.36,
+        "Goals Conceeded EMA Long": 1.46
+    },
+    "Chechnya": {
+        "Elo": 1451.2796156414047,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 1.2368,
+        "Goals Conceeded EMA Short": 5.428800000000001,
+        "Goals Scored EMA Long": 1.3006000000000002,
+        "Goals Conceeded EMA Long": 3.6346000000000007
+    },
+    "Portugal": {
+        "Elo": 2015.201352306273,
+        "Num. Matches": 693,
+        "Goals Scored EMA Short": 2.5112485080863536,
+        "Goals Conceeded EMA Short": 0.8097411016155901,
+        "Goals Scored EMA Long": 2.448079479167875,
+        "Goals Conceeded EMA Long": 0.9113039600255831
+    },
+    "Surrey": {
+        "Elo": 1516.2114365719735,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.72,
+        "Goals Conceeded EMA Short": 1.3199999999999998,
+        "Goals Scored EMA Long": 1.56,
+        "Goals Conceeded EMA Long": 1.36
+    },
+    "Parishes of Jersey": {
+        "Elo": 1513.8512460206575,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 2.7728,
+        "Goals Conceeded EMA Short": 1.4047999999999998,
+        "Goals Scored EMA Long": 2.0826000000000002,
+        "Goals Conceeded EMA Long": 1.3916000000000002
+    },
+    "Philippines": {
+        "Elo": 1323.2171628139579,
+        "Num. Matches": 338,
+        "Goals Scored EMA Short": 2.3136239639044383,
+        "Goals Conceeded EMA Short": 1.0656388391410718,
+        "Goals Scored EMA Long": 1.847361017918985,
+        "Goals Conceeded EMA Long": 1.3038421482622158
+    },
+    "Western Armenia": {
+        "Elo": 1519.2091623785036,
+        "Num. Matches": 16,
+        "Goals Scored EMA Short": 1.6475724959082094,
+        "Goals Conceeded EMA Short": 1.1620549061469798,
+        "Goals Scored EMA Long": 1.782711434419417,
+        "Goals Conceeded EMA Long": 1.2588139325710896
+    },
+    "England": {
+        "Elo": 2072.200358563394,
+        "Num. Matches": 1088,
+        "Goals Scored EMA Short": 1.911286848623422,
+        "Goals Conceeded EMA Short": 0.5020151471186765,
+        "Goals Scored EMA Long": 2.1253844203324257,
+        "Goals Conceeded EMA Long": 0.5144355200080942
+    },
+    "Montenegro": {
+        "Elo": 1489.803027637359,
+        "Num. Matches": 168,
+        "Goals Scored EMA Short": 1.5517261376195357,
+        "Goals Conceeded EMA Short": 1.9638201259078902,
+        "Goals Scored EMA Long": 1.311078573549402,
+        "Goals Conceeded EMA Long": 1.8429876341193276
+    },
+    "Barawa": {
+        "Elo": 1358.4822884473417,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 0.7946742267904002,
+        "Goals Conceeded EMA Short": 4.3443568123904015,
+        "Goals Scored EMA Long": 1.1568737666934006,
+        "Goals Conceeded EMA Long": 3.376766347048401
+    },
+    "Kyrgyzstan": {
+        "Elo": 1451.7559651341978,
+        "Num. Matches": 189,
+        "Goals Scored EMA Short": 1.2942225279342265,
+        "Goals Conceeded EMA Short": 2.1614992689140227,
+        "Goals Scored EMA Long": 1.2872441659629266,
+        "Goals Conceeded EMA Long": 1.8627633935851484
+    },
+    "Grenada": {
+        "Elo": 1291.7263519729252,
+        "Num. Matches": 259,
+        "Goals Scored EMA Short": 1.2668164417918066,
+        "Goals Conceeded EMA Short": 1.9516571793928723,
+        "Goals Scored EMA Long": 1.3954611641780865,
+        "Goals Conceeded EMA Long": 1.8457373756008781
+    },
+    "Central African Republic": {
+        "Elo": 1363.9715691639838,
+        "Num. Matches": 136,
+        "Goals Scored EMA Short": 0.9905665975228708,
+        "Goals Conceeded EMA Short": 2.3736387011763753,
+        "Goals Scored EMA Long": 1.051604116827058,
+        "Goals Conceeded EMA Long": 2.1272322877024368
+    },
+    "Gotland": {
+        "Elo": 1443.7257192185698,
+        "Num. Matches": 30,
+        "Goals Scored EMA Short": 2.8981132058036936,
+        "Goals Conceeded EMA Short": 1.9366910733427871,
+        "Goals Scored EMA Long": 2.6585562013906205,
+        "Goals Conceeded EMA Long": 1.9692189734885124
+    },
+    "Romani people": {
+        "Elo": 1464.612057498955,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 1.5201996800000002,
+        "Goals Conceeded EMA Short": 2.915886080000001,
+        "Goals Scored EMA Long": 1.5652659600000005,
+        "Goals Conceeded EMA Long": 2.5098287600000004
+    },
+    "Cook Islands": {
+        "Elo": 1147.9038590767386,
+        "Num. Matches": 53,
+        "Goals Scored EMA Short": 0.622076829273883,
+        "Goals Conceeded EMA Short": 2.520597508073098,
+        "Goals Scored EMA Long": 0.7204737933064355,
+        "Goals Conceeded EMA Long": 2.804098812116501
+    },
+    "Mali": {
+        "Elo": 1712.7770629185377,
+        "Num. Matches": 568,
+        "Goals Scored EMA Short": 0.8506215831265582,
+        "Goals Conceeded EMA Short": 0.6384886404330845,
+        "Goals Scored EMA Long": 1.2151133237358065,
+        "Goals Conceeded EMA Long": 0.6221150993513195
+    },
+    "Mongolia": {
+        "Elo": 1013.527883187957,
+        "Num. Matches": 101,
+        "Goals Scored EMA Short": 0.5951909093482826,
+        "Goals Conceeded EMA Short": 2.423358545631541,
+        "Goals Scored EMA Long": 0.6469185826355393,
+        "Goals Conceeded EMA Long": 2.2538696784057484
+    },
+    "Honduras": {
+        "Elo": 1685.3318654533941,
+        "Num. Matches": 619,
+        "Goals Scored EMA Short": 1.0995050388690024,
+        "Goals Conceeded EMA Short": 0.9282395314093767,
+        "Goals Scored EMA Long": 1.237835438413794,
+        "Goals Conceeded EMA Long": 1.0072622552355508
+    },
+    "Andalusia": {
+        "Elo": 1591.493418801565,
+        "Num. Matches": 13,
+        "Goals Scored EMA Short": 2.3154855080755206,
+        "Goals Conceeded EMA Short": 0.96742270451712,
+        "Goals Scored EMA Long": 1.9699990901231605,
+        "Goals Conceeded EMA Long": 1.0965740801674606
+    },
+    "Ecuador": {
+        "Elo": 2006.4660584374951,
+        "Num. Matches": 589,
+        "Goals Scored EMA Short": 0.9359716991598173,
+        "Goals Conceeded EMA Short": 0.5450443853692528,
+        "Goals Scored EMA Long": 0.9227738050368542,
+        "Goals Conceeded EMA Long": 0.49178612395819965
+    },
+    "Tuvalu": {
+        "Elo": 1220.3370423260676,
+        "Num. Matches": 39,
+        "Goals Scored EMA Short": 1.7168604032724137,
+        "Goals Conceeded EMA Short": 4.253690353105732,
+        "Goals Scored EMA Long": 1.3097008284891363,
+        "Goals Conceeded EMA Long": 4.872641519695145
+    },
+    "Madagascar": {
+        "Elo": 1509.0306158932615,
+        "Num. Matches": 319,
+        "Goals Scored EMA Short": 2.0616022393259317,
+        "Goals Conceeded EMA Short": 1.463929958799574,
+        "Goals Scored EMA Long": 1.7322352681668438,
+        "Goals Conceeded EMA Long": 1.4174492904906448
+    },
+    "Orkney": {
+        "Elo": 1397.33313787962,
+        "Num. Matches": 28,
+        "Goals Scored EMA Short": 2.0239605714143933,
+        "Goals Conceeded EMA Short": 1.934448195752425,
+        "Goals Scored EMA Long": 1.7374173508666697,
+        "Goals Conceeded EMA Long": 2.137055661345056
+    },
+    "Belgium": {
+        "Elo": 1936.9775029063803,
+        "Num. Matches": 851,
+        "Goals Scored EMA Short": 3.192351052924008,
+        "Goals Conceeded EMA Short": 1.0464408730118593,
+        "Goals Scored EMA Long": 2.7515687983805117,
+        "Goals Conceeded EMA Long": 1.029248587952184
+    },
+    "Ynys M\u00f4n": {
+        "Elo": 1639.6552216802875,
+        "Num. Matches": 67,
+        "Goals Scored EMA Short": 1.939665687748881,
+        "Goals Conceeded EMA Short": 1.1402221783868025,
+        "Goals Scored EMA Long": 2.079881089195066,
+        "Goals Conceeded EMA Long": 1.3385074373764798
+    },
+    "Panjab": {
+        "Elo": 1586.081883350102,
+        "Num. Matches": 19,
+        "Goals Scored EMA Short": 3.437629440948312,
+        "Goals Conceeded EMA Short": 1.6722621723013078,
+        "Goals Scored EMA Long": 2.8276282744807033,
+        "Goals Conceeded EMA Long": 1.5308219116341335
+    },
+    "Egypt": {
+        "Elo": 1801.308872531129,
+        "Num. Matches": 754,
+        "Goals Scored EMA Short": 1.3111521579607768,
+        "Goals Conceeded EMA Short": 0.5284568404447968,
+        "Goals Scored EMA Long": 1.3401736281506635,
+        "Goals Conceeded EMA Long": 0.6636922557948298
+    },
+    "Ry\u016bky\u016b": {
+        "Elo": 1474.438556830974,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.1199999999999999,
+        "Goals Conceeded EMA Short": 2.92,
+        "Goals Scored EMA Long": 1.26,
+        "Goals Conceeded EMA Long": 2.16
+    },
+    "Hitra": {
+        "Elo": 1343.5880155785785,
+        "Num. Matches": 23,
+        "Goals Scored EMA Short": 2.6700595163545637,
+        "Goals Conceeded EMA Short": 2.522169069160425,
+        "Goals Scored EMA Long": 2.1156094914794217,
+        "Goals Conceeded EMA Long": 3.0088318604894484
+    },
+    "Mapuche": {
+        "Elo": 1508.4707999873015,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.496,
+        "Goals Conceeded EMA Short": 1.2559999999999998,
+        "Goals Scored EMA Long": 1.4340000000000002,
+        "Goals Conceeded EMA Long": 1.3240000000000003
+    },
+    "Faroe Islands": {
+        "Elo": 1422.331016524287,
+        "Num. Matches": 285,
+        "Goals Scored EMA Short": 1.4538840670941253,
+        "Goals Conceeded EMA Short": 0.9802777512062619,
+        "Goals Scored EMA Long": 1.1973930615539723,
+        "Goals Conceeded EMA Long": 1.090915354498869
+    },
+    "Somalia": {
+        "Elo": 1058.0133513818516,
+        "Num. Matches": 124,
+        "Goals Scored EMA Short": 0.44801813509041344,
+        "Goals Conceeded EMA Short": 1.4591084996492147,
+        "Goals Scored EMA Long": 0.4259874218253539,
+        "Goals Conceeded EMA Long": 1.858420776048381
+    },
+    "Montserrat": {
+        "Elo": 1241.3337172239244,
+        "Num. Matches": 66,
+        "Goals Scored EMA Short": 0.605063877033272,
+        "Goals Conceeded EMA Short": 1.7264704366131698,
+        "Goals Scored EMA Long": 0.8574599154307928,
+        "Goals Conceeded EMA Long": 1.9185296499487214
+    },
+    "Tibet": {
+        "Elo": 1287.870239802571,
+        "Num. Matches": 16,
+        "Goals Scored EMA Short": 1.5815242641794665,
+        "Goals Conceeded EMA Short": 3.825500187167295,
+        "Goals Scored EMA Long": 1.256591832103684,
+        "Goals Conceeded EMA Long": 3.54119628524757
+    },
+    "Kabylia": {
+        "Elo": 1455.7025661900843,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 1.6470016000000003,
+        "Goals Conceeded EMA Short": 1.8608896000000001,
+        "Goals Scored EMA Long": 1.4640174000000004,
+        "Goals Conceeded EMA Long": 1.7980094
+    },
+    "Ukraine": {
+        "Elo": 1824.6974367327336,
+        "Num. Matches": 336,
+        "Goals Scored EMA Short": 1.4248555893885688,
+        "Goals Conceeded EMA Short": 1.6048884153704588,
+        "Goals Scored EMA Long": 1.4772739822925527,
+        "Goals Conceeded EMA Long": 1.6122638805591258
+    },
+    "Brunei": {
+        "Elo": 911.2966784821474,
+        "Num. Matches": 137,
+        "Goals Scored EMA Short": 0.4292994418484455,
+        "Goals Conceeded EMA Short": 3.1799101438868993,
+        "Goals Scored EMA Long": 0.6349430652583717,
+        "Goals Conceeded EMA Long": 2.8535224889323585
+    },
+    "Catalonia": {
+        "Elo": 1653.3185934859155,
+        "Num. Matches": 48,
+        "Goals Scored EMA Short": 1.8711056729551911,
+        "Goals Conceeded EMA Short": 1.30223594756816,
+        "Goals Scored EMA Long": 1.8359674140302067,
+        "Goals Conceeded EMA Long": 1.3035823893565024
+    },
+    "R\u00e9union": {
+        "Elo": 1581.518215549276,
+        "Num. Matches": 124,
+        "Goals Scored EMA Short": 1.293951022690785,
+        "Goals Conceeded EMA Short": 0.7020270437866747,
+        "Goals Scored EMA Long": 1.705195812157546,
+        "Goals Conceeded EMA Long": 0.6511409548260462
+    },
+    "Slovenia": {
+        "Elo": 1743.028517969806,
+        "Num. Matches": 315,
+        "Goals Scored EMA Short": 0.998818235265647,
+        "Goals Conceeded EMA Short": 1.2614128285273294,
+        "Goals Scored EMA Long": 0.9750323461297334,
+        "Goals Conceeded EMA Long": 1.1353282554861146
+    },
+    "Anguilla": {
+        "Elo": 929.6208741346804,
+        "Num. Matches": 91,
+        "Goals Scored EMA Short": 0.8499542124979134,
+        "Goals Conceeded EMA Short": 2.88049256912195,
+        "Goals Scored EMA Long": 0.6860297251906948,
+        "Goals Conceeded EMA Long": 3.0221934511159234
+    },
+    "Indonesia": {
+        "Elo": 1474.6894213333173,
+        "Num. Matches": 723,
+        "Goals Scored EMA Short": 1.4403577360660618,
+        "Goals Conceeded EMA Short": 1.2287863806738408,
+        "Goals Scored EMA Long": 1.3696568206123179,
+        "Goals Conceeded EMA Long": 1.4047361630619526
+    },
+    "Germany": {
+        "Elo": 1987.7535539605917,
+        "Num. Matches": 1029,
+        "Goals Scored EMA Short": 2.818569806789527,
+        "Goals Conceeded EMA Short": 1.0685885039216731,
+        "Goals Scored EMA Long": 2.5217855774395876,
+        "Goals Conceeded EMA Long": 1.076547260605736
+    },
+    "Iceland": {
+        "Elo": 1631.570406945416,
+        "Num. Matches": 520,
+        "Goals Scored EMA Short": 1.3617051562098266,
+        "Goals Conceeded EMA Short": 1.961199425586813,
+        "Goals Scored EMA Long": 1.4978240346557035,
+        "Goals Conceeded EMA Long": 1.921360847165221
+    },
+    "Pakistan": {
+        "Elo": 1017.2980335325527,
+        "Num. Matches": 244,
+        "Goals Scored EMA Short": 0.21689000831717112,
+        "Goals Conceeded EMA Short": 2.549809463645936,
+        "Goals Scored EMA Long": 0.2707637270901951,
+        "Goals Conceeded EMA Long": 2.498104202075422
+    },
+    "Falkland Islands": {
+        "Elo": 1214.8201851919937,
+        "Num. Matches": 33,
+        "Goals Scored EMA Short": 0.8534161133064408,
+        "Goals Conceeded EMA Short": 3.1145698387133325,
+        "Goals Scored EMA Long": 0.9379261365848098,
+        "Goals Conceeded EMA Long": 3.286636905503429
+    },
+    "Saint Lucia": {
+        "Elo": 1229.3214833730378,
+        "Num. Matches": 230,
+        "Goals Scored EMA Short": 0.9116711095845758,
+        "Goals Conceeded EMA Short": 3.342908433745942,
+        "Goals Scored EMA Long": 1.0533844672521073,
+        "Goals Conceeded EMA Long": 2.6249462136920063
+    },
+    "Mexico": {
+        "Elo": 1926.0877765586326,
+        "Num. Matches": 1000,
+        "Goals Scored EMA Short": 1.1951114530217104,
+        "Goals Conceeded EMA Short": 0.6130664488944266,
+        "Goals Scored EMA Long": 1.242345486730639,
+        "Goals Conceeded EMA Long": 0.7552951554658779
+    },
+    "Colombia": {
+        "Elo": 2032.1543195451582,
+        "Num. Matches": 636,
+        "Goals Scored EMA Short": 1.8529713610797598,
+        "Goals Conceeded EMA Short": 1.364601489544617,
+        "Goals Scored EMA Long": 1.9110429868164263,
+        "Goals Conceeded EMA Long": 1.1407636626740263
+    },
+    "Manchukuo": {
+        "Elo": 1430.3771838057562,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 0.7168,
+        "Goals Conceeded EMA Short": 3.2048000000000005,
+        "Goals Scored EMA Long": 1.0206000000000002,
+        "Goals Conceeded EMA Long": 2.4366000000000003
+    },
+    "Liberia": {
+        "Elo": 1426.9832761871824,
+        "Num. Matches": 300,
+        "Goals Scored EMA Short": 1.0735415258335241,
+        "Goals Conceeded EMA Short": 1.618508208566222,
+        "Goals Scored EMA Long": 1.0032583897536769,
+        "Goals Conceeded EMA Long": 1.5986576033199786
+    },
+    "Kazakhstan": {
+        "Elo": 1507.975442069548,
+        "Num. Matches": 267,
+        "Goals Scored EMA Short": 1.1009273357956626,
+        "Goals Conceeded EMA Short": 1.0074605252448612,
+        "Goals Scored EMA Long": 1.0298200984022448,
+        "Goals Conceeded EMA Long": 1.4386917021183303
+    },
+    "El Salvador": {
+        "Elo": 1495.7592272701042,
+        "Num. Matches": 612,
+        "Goals Scored EMA Short": 0.7471969480883467,
+        "Goals Conceeded EMA Short": 1.55225757806061,
+        "Goals Scored EMA Long": 0.8131678740265513,
+        "Goals Conceeded EMA Long": 1.4117660776428431
+    },
+    "Togo": {
+        "Elo": 1479.1277812901021,
+        "Num. Matches": 445,
+        "Goals Scored EMA Short": 0.882904800355848,
+        "Goals Conceeded EMA Short": 0.9651519952641472,
+        "Goals Scored EMA Long": 0.9243429991113218,
+        "Goals Conceeded EMA Long": 1.1454048830795232
+    },
+    "United States": {
+        "Elo": 1816.9347672664233,
+        "Num. Matches": 788,
+        "Goals Scored EMA Short": 1.7835115341235501,
+        "Goals Conceeded EMA Short": 1.8976113382474815,
+        "Goals Scored EMA Long": 1.7634724873841452,
+        "Goals Conceeded EMA Long": 1.5892200958582419
+    },
+    "Northern Cyprus": {
+        "Elo": 1690.1801513220491,
+        "Num. Matches": 34,
+        "Goals Scored EMA Short": 2.614524053379549,
+        "Goals Conceeded EMA Short": 0.8409203176963733,
+        "Goals Scored EMA Long": 2.714630289304051,
+        "Goals Conceeded EMA Long": 0.8447784993010427
+    },
+    "Darfur": {
+        "Elo": 1275.5984577515521,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 0.37552128000000007,
+        "Goals Conceeded EMA Short": 11.069281280000002,
+        "Goals Scored EMA Long": 0.7352256600000002,
+        "Goals Conceeded EMA Long": 7.934709160000001
+    },
+    "Romania": {
+        "Elo": 1677.4900205298434,
+        "Num. Matches": 764,
+        "Goals Scored EMA Short": 1.6578671736931225,
+        "Goals Conceeded EMA Short": 1.4352781990925627,
+        "Goals Scored EMA Long": 1.728832527038566,
+        "Goals Conceeded EMA Long": 1.2705509460651077
+    },
+    "Gibraltar": {
+        "Elo": 1113.714530421385,
+        "Num. Matches": 157,
+        "Goals Scored EMA Short": 0.31461325530859485,
+        "Goals Conceeded EMA Short": 3.0046326073818874,
+        "Goals Scored EMA Long": 0.3665794118646829,
+        "Goals Conceeded EMA Long": 2.713958306397664
+    },
+    "Turks and Caicos Islands": {
+        "Elo": 1026.9321776903917,
+        "Num. Matches": 52,
+        "Goals Scored EMA Short": 1.1966122296271027,
+        "Goals Conceeded EMA Short": 1.9852797154018904,
+        "Goals Scored EMA Long": 1.0990725838379638,
+        "Goals Conceeded EMA Long": 2.4182636334308127
+    },
+    "Asturias": {
+        "Elo": 1520.5297736017358,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.72,
+        "Goals Conceeded EMA Short": 1.3199999999999998,
+        "Goals Scored EMA Long": 1.56,
+        "Goals Conceeded EMA Long": 1.36
+    },
+    "Scotland": {
+        "Elo": 1806.7716571711123,
+        "Num. Matches": 849,
+        "Goals Scored EMA Short": 1.4392205533435676,
+        "Goals Conceeded EMA Short": 1.3025730785161178,
+        "Goals Scored EMA Long": 1.472599194773697,
+        "Goals Conceeded EMA Long": 1.3374964420130446
+    },
+    "Trinidad and Tobago": {
+        "Elo": 1537.0465519754562,
+        "Num. Matches": 751,
+        "Goals Scored EMA Short": 1.2693619548680397,
+        "Goals Conceeded EMA Short": 2.128011356897062,
+        "Goals Scored EMA Long": 1.3533117897053653,
+        "Goals Conceeded EMA Long": 1.888842897256403
+    },
+    "Japan": {
+        "Elo": 1992.946776633544,
+        "Num. Matches": 789,
+        "Goals Scored EMA Short": 1.791149783101954,
+        "Goals Conceeded EMA Short": 0.4608872325065785,
+        "Goals Scored EMA Long": 2.1645179130455614,
+        "Goals Conceeded EMA Long": 0.5640665218572721
+    },
+    "Ticino": {
+        "Elo": 1409.7879213553756,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.2559999999999998,
+        "Goals Conceeded EMA Short": 3.1759999999999997,
+        "Goals Scored EMA Long": 1.3240000000000003,
+        "Goals Conceeded EMA Long": 2.354
+    },
+    "Kosovo": {
+        "Elo": 1759.5398315223367,
+        "Num. Matches": 102,
+        "Goals Scored EMA Short": 1.615341297128088,
+        "Goals Conceeded EMA Short": 1.1812976776370014,
+        "Goals Scored EMA Long": 1.6480122611403845,
+        "Goals Conceeded EMA Long": 1.1358552809736275
+    },
+    "Greenland": {
+        "Elo": 1466.48821892738,
+        "Num. Matches": 77,
+        "Goals Scored EMA Short": 1.2767446775313844,
+        "Goals Conceeded EMA Short": 2.795995349605948,
+        "Goals Scored EMA Long": 1.7210020861307491,
+        "Goals Conceeded EMA Long": 2.218326253827236
+    },
+    "Mauritania": {
+        "Elo": 1432.6377592115703,
+        "Num. Matches": 269,
+        "Goals Scored EMA Short": 0.48221650475084177,
+        "Goals Conceeded EMA Short": 1.4748164467413334,
+        "Goals Scored EMA Long": 0.5282931695550588,
+        "Goals Conceeded EMA Long": 1.3008379562614198
+    },
+    "Andorra": {
+        "Elo": 1137.797825424476,
+        "Num. Matches": 226,
+        "Goals Scored EMA Short": 0.23392213202201229,
+        "Goals Conceeded EMA Short": 1.6800903285475457,
+        "Goals Scored EMA Long": 0.2795177254645285,
+        "Goals Conceeded EMA Long": 1.6957671983530098
+    },
+    "Armenia": {
+        "Elo": 1442.9893257499175,
+        "Num. Matches": 270,
+        "Goals Scored EMA Short": 0.7663085625603918,
+        "Goals Conceeded EMA Short": 3.1643369033441764,
+        "Goals Scored EMA Long": 0.8761970301140298,
+        "Goals Conceeded EMA Long": 2.782945215074218
+    },
+    "Vanuatu": {
+        "Elo": 1434.7207127055076,
+        "Num. Matches": 213,
+        "Goals Scored EMA Short": 1.5425359745148746,
+        "Goals Conceeded EMA Short": 1.8978222330877998,
+        "Goals Scored EMA Long": 1.5354155189082483,
+        "Goals Conceeded EMA Long": 2.076616449565079
+    },
+    "Denmark": {
+        "Elo": 1906.903596147044,
+        "Num. Matches": 872,
+        "Goals Scored EMA Short": 2.6451073656131276,
+        "Goals Conceeded EMA Short": 1.396815233010447,
+        "Goals Scored EMA Long": 2.3089902227275476,
+        "Goals Conceeded EMA Long": 1.2010896850073105
+    },
+    "Silesia": {
+        "Elo": 1506.753142789982,
+        "Num. Matches": 8,
+        "Goals Scored EMA Short": 2.8835824640000007,
+        "Goals Conceeded EMA Short": 1.8871383040000003,
+        "Goals Scored EMA Long": 2.374864084,
+        "Goals Conceeded EMA Long": 1.7772488740000003
+    },
+    "North Vietnam": {
+        "Elo": 1487.9214596255615,
+        "Num. Matches": 24,
+        "Goals Scored EMA Short": 2.155024898084797,
+        "Goals Conceeded EMA Short": 1.6540170495318758,
+        "Goals Scored EMA Long": 2.159227428925015,
+        "Goals Conceeded EMA Long": 1.75505369360135
+    },
+    "Bonaire": {
+        "Elo": 1168.0862072340042,
+        "Num. Matches": 43,
+        "Goals Scored EMA Short": 1.0919375344433764,
+        "Goals Conceeded EMA Short": 2.321201166724942,
+        "Goals Scored EMA Long": 1.1730811026309498,
+        "Goals Conceeded EMA Long": 2.167333800336412
+    },
+    "Wales": {
+        "Elo": 1748.094044000209,
+        "Num. Matches": 724,
+        "Goals Scored EMA Short": 1.9252433431551652,
+        "Goals Conceeded EMA Short": 1.2945354425422566,
+        "Goals Scored EMA Long": 1.7666610138510879,
+        "Goals Conceeded EMA Long": 1.2728289609847485
+    },
+    "Panama": {
+        "Elo": 1829.0082468937974,
+        "Num. Matches": 535,
+        "Goals Scored EMA Short": 1.464309763579664,
+        "Goals Conceeded EMA Short": 0.9250338795252326,
+        "Goals Scored EMA Long": 1.5446533416742707,
+        "Goals Conceeded EMA Long": 1.0059718814393284
+    },
+    "Ghana": {
+        "Elo": 1617.128225704573,
+        "Num. Matches": 669,
+        "Goals Scored EMA Short": 1.2389867090545468,
+        "Goals Conceeded EMA Short": 1.7269437695205947,
+        "Goals Scored EMA Long": 1.4150115427536918,
+        "Goals Conceeded EMA Long": 1.3987915017083288
+    },
+    "Ambazonia": {
+        "Elo": 1392.2006314215269,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 0.6980736000000003,
+        "Goals Conceeded EMA Short": 2.5150336000000006,
+        "Goals Scored EMA Long": 0.9621154000000001,
+        "Goals Conceeded EMA Long": 2.0906454000000005
+    },
+    "Equatorial Guinea": {
+        "Elo": 1450.4484318529817,
+        "Num. Matches": 178,
+        "Goals Scored EMA Short": 0.8122455687738117,
+        "Goals Conceeded EMA Short": 1.370161881825693,
+        "Goals Scored EMA Long": 0.8692718426526475,
+        "Goals Conceeded EMA Long": 1.3671975168386492
+    },
+    "Namibia": {
+        "Elo": 1420.6767244857108,
+        "Num. Matches": 279,
+        "Goals Scored EMA Short": 0.36211638210266783,
+        "Goals Conceeded EMA Short": 1.5990415126423505,
+        "Goals Scored EMA Long": 0.5351434508233855,
+        "Goals Conceeded EMA Long": 1.4515396086780743
+    },
+    "Padania": {
+        "Elo": 1692.1128408861573,
+        "Num. Matches": 44,
+        "Goals Scored EMA Short": 1.946244257875927,
+        "Goals Conceeded EMA Short": 1.0005801116447217,
+        "Goals Scored EMA Long": 2.2288425322249337,
+        "Goals Conceeded EMA Long": 0.8952266702014542
+    },
+    "Luxembourg": {
+        "Elo": 1445.233887555557,
+        "Num. Matches": 465,
+        "Goals Scored EMA Short": 0.20321322682439047,
+        "Goals Conceeded EMA Short": 1.762654666199382,
+        "Goals Scored EMA Long": 0.4081353891090923,
+        "Goals Conceeded EMA Long": 1.7027415709508076
+    },
+    "Chile": {
+        "Elo": 1783.7652839972523,
+        "Num. Matches": 833,
+        "Goals Scored EMA Short": 1.650741432443767,
+        "Goals Conceeded EMA Short": 1.756702247001737,
+        "Goals Scored EMA Long": 1.3914272447351423,
+        "Goals Conceeded EMA Long": 1.4958614077760881
+    },
+    "Guyana": {
+        "Elo": 1487.2496768683823,
+        "Num. Matches": 313,
+        "Goals Scored EMA Short": 2.440958939980769,
+        "Goals Conceeded EMA Short": 1.0948125341858868,
+        "Goals Scored EMA Long": 2.2378086168623055,
+        "Goals Conceeded EMA Long": 1.4300361384182114
+    },
+    "Palau": {
+        "Elo": 1421.7070551134045,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.616,
+        "Goals Conceeded EMA Short": 4.856,
+        "Goals Scored EMA Long": 1.514,
+        "Goals Conceeded EMA Long": 3.1740000000000004
+    },
+    "Qatar": {
+        "Elo": 1555.6265906191543,
+        "Num. Matches": 633,
+        "Goals Scored EMA Short": 0.8097035483034232,
+        "Goals Conceeded EMA Short": 1.7868998180672204,
+        "Goals Scored EMA Long": 1.125813917696949,
+        "Goals Conceeded EMA Long": 1.7482118784099683
+    },
+    "United States Virgin Islands": {
+        "Elo": 1008.3788394333498,
+        "Num. Matches": 78,
+        "Goals Scored EMA Short": 1.7485883222030538,
+        "Goals Conceeded EMA Short": 1.983863827336529,
+        "Goals Scored EMA Long": 1.3678553603365156,
+        "Goals Conceeded EMA Long": 2.20583456584195
+    },
+    "Yoruba Nation": {
+        "Elo": 1483.5511639452818,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.0559999999999998,
+        "Goals Conceeded EMA Short": 1.2559999999999998,
+        "Goals Scored EMA Long": 1.2240000000000002,
+        "Goals Conceeded EMA Long": 1.3240000000000003
+    },
+    "Italy": {
+        "Elo": 1898.9828382656312,
+        "Num. Matches": 891,
+        "Goals Scored EMA Short": 2.032014671485392,
+        "Goals Conceeded EMA Short": 1.2595220173164994,
+        "Goals Scored EMA Long": 2.076847782474911,
+        "Goals Conceeded EMA Long": 1.3162084532500467
+    },
+    "Aymara": {
+        "Elo": 1463.1833631032425,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.0559999999999998,
+        "Goals Conceeded EMA Short": 1.576,
+        "Goals Scored EMA Long": 1.2240000000000002,
+        "Goals Conceeded EMA Long": 1.5040000000000002
+    },
+    "Gambia": {
+        "Elo": 1540.0574334804799,
+        "Num. Matches": 265,
+        "Goals Scored EMA Short": 2.4312118310103163,
+        "Goals Conceeded EMA Short": 1.730743609114076,
+        "Goals Scored EMA Long": 2.069593340548613,
+        "Goals Conceeded EMA Long": 1.555538301845405
+    },
+    "Slovakia": {
+        "Elo": 1730.4789148689656,
+        "Num. Matches": 365,
+        "Goals Scored EMA Short": 1.4184108544356806,
+        "Goals Conceeded EMA Short": 1.7666558660497005,
+        "Goals Scored EMA Long": 1.3179079907027345,
+        "Goals Conceeded EMA Long": 1.4658627100105128
+    },
+    "Switzerland": {
+        "Elo": 1948.3242838706226,
+        "Num. Matches": 882,
+        "Goals Scored EMA Short": 1.8859859155972025,
+        "Goals Conceeded EMA Short": 1.0917318172291341,
+        "Goals Scored EMA Long": 1.962010512102182,
+        "Goals Conceeded EMA Long": 1.09693327664774
+    },
+    "Iraq": {
+        "Elo": 1732.3463310911004,
+        "Num. Matches": 652,
+        "Goals Scored EMA Short": 1.1358118777110828,
+        "Goals Conceeded EMA Short": 0.9476012950940642,
+        "Goals Scored EMA Long": 1.167846997297689,
+        "Goals Conceeded EMA Long": 0.9266532568988166
+    },
+    "South Ossetia": {
+        "Elo": 1481.2699640914677,
+        "Num. Matches": 16,
+        "Goals Scored EMA Short": 1.7018819413632618,
+        "Goals Conceeded EMA Short": 1.7333525843437165,
+        "Goals Scored EMA Long": 1.6993945944930524,
+        "Goals Conceeded EMA Long": 1.8292377464044414
+    },
+    "Nicaragua": {
+        "Elo": 1493.7050489333933,
+        "Num. Matches": 220,
+        "Goals Scored EMA Short": 0.7926972250684052,
+        "Goals Conceeded EMA Short": 2.0296706706847685,
+        "Goals Scored EMA Long": 0.9754914526874291,
+        "Goals Conceeded EMA Long": 1.6880039001303053
+    },
+    "Comoros": {
+        "Elo": 1476.4139864278916,
+        "Num. Matches": 150,
+        "Goals Scored EMA Short": 0.5021559675987007,
+        "Goals Conceeded EMA Short": 1.036781871785897,
+        "Goals Scored EMA Long": 0.8605856008990116,
+        "Goals Conceeded EMA Long": 1.2443767906456544
+    },
+    "Nepal": {
+        "Elo": 1121.843941941999,
+        "Num. Matches": 268,
+        "Goals Scored EMA Short": 0.6256223110035295,
+        "Goals Conceeded EMA Short": 1.4782950025200585,
+        "Goals Scored EMA Long": 0.623805570385275,
+        "Goals Conceeded EMA Long": 1.6148115453096468
+    },
+    "Isle of Man": {
+        "Elo": 1709.170088724656,
+        "Num. Matches": 58,
+        "Goals Scored EMA Short": 3.4951977012004183,
+        "Goals Conceeded EMA Short": 1.344587742013439,
+        "Goals Scored EMA Long": 3.681914523777434,
+        "Goals Conceeded EMA Long": 1.3172878452658143
+    },
+    "Eritrea": {
+        "Elo": 1194.5795519376677,
+        "Num. Matches": 71,
+        "Goals Scored EMA Short": 0.4654337956655811,
+        "Goals Conceeded EMA Short": 2.1642421084713397,
+        "Goals Scored EMA Long": 0.6123357040937183,
+        "Goals Conceeded EMA Long": 2.0705646071887642
+    },
+    "Cura\u00e7ao": {
+        "Elo": 1605.239231469929,
+        "Num. Matches": 383,
+        "Goals Scored EMA Short": 1.603073282379494,
+        "Goals Conceeded EMA Short": 1.668533507306917,
+        "Goals Scored EMA Long": 1.778643804193962,
+        "Goals Conceeded EMA Long": 1.2865304723276734
+    },
+    "Netherlands": {
+        "Elo": 2014.0005128063976,
+        "Num. Matches": 877,
+        "Goals Scored EMA Short": 2.4793494395014606,
+        "Goals Conceeded EMA Short": 0.7774263787905322,
+        "Goals Scored EMA Long": 2.570477277946445,
+        "Goals Conceeded EMA Long": 0.8785580107516132
+    },
+    "Brazil": {
+        "Elo": 2047.6016392385686,
+        "Num. Matches": 1057,
+        "Goals Scored EMA Short": 1.9025810420728786,
+        "Goals Conceeded EMA Short": 1.1025987165754843,
+        "Goals Scored EMA Long": 1.7722182554090704,
+        "Goals Conceeded EMA Long": 1.0235820478743298
+    },
+    "New Zealand": {
+        "Elo": 1741.6035905244357,
+        "Num. Matches": 414,
+        "Goals Scored EMA Short": 1.5850337052350114,
+        "Goals Conceeded EMA Short": 1.432856257575094,
+        "Goals Scored EMA Long": 1.8709133609127573,
+        "Goals Conceeded EMA Long": 1.2105669724017727
+    },
+    "Georgia": {
+        "Elo": 1696.2320036512292,
+        "Num. Matches": 305,
+        "Goals Scored EMA Short": 1.4893198425658456,
+        "Goals Conceeded EMA Short": 1.7147991889097651,
+        "Goals Scored EMA Long": 1.5736367996678742,
+        "Goals Conceeded EMA Long": 1.6092073149339317
+    },
+    "Tanzania": {
+        "Elo": 1415.1362899887745,
+        "Num. Matches": 599,
+        "Goals Scored EMA Short": 1.6534218823178917,
+        "Goals Conceeded EMA Short": 1.0694496366915314,
+        "Goals Scored EMA Long": 1.138918314714037,
+        "Goals Conceeded EMA Long": 1.159364684183263
+    },
+    "Donetsk PR": {
+        "Elo": 1511.2645638884426,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 1.4185216,
+        "Goals Conceeded EMA Short": 1.1406976,
+        "Goals Scored EMA Long": 1.3912274000000002,
+        "Goals Conceeded EMA Long": 1.2627964000000005
+    },
+    "Yugoslavia": {
+        "Elo": 1870.2839439058864,
+        "Num. Matches": 483,
+        "Goals Scored EMA Short": 1.6743993227534482,
+        "Goals Conceeded EMA Short": 1.3230102979965355,
+        "Goals Scored EMA Long": 1.8110067942003714,
+        "Goals Conceeded EMA Long": 1.1583344486647245
+    },
+    "Central Spain": {
+        "Elo": 1495.317158400716,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.2559999999999998,
+        "Goals Conceeded EMA Short": 1.536,
+        "Goals Scored EMA Long": 1.3240000000000003,
+        "Goals Conceeded EMA Long": 1.4940000000000002
+    },
+    "Cyprus": {
+        "Elo": 1350.2839422217778,
+        "Num. Matches": 424,
+        "Goals Scored EMA Short": 1.5961237962395796,
+        "Goals Conceeded EMA Short": 1.8907574259342694,
+        "Goals Scored EMA Long": 1.3842758077553645,
+        "Goals Conceeded EMA Long": 1.9443695294704593
+    },
+    "Sint Maarten": {
+        "Elo": 1308.3959241230184,
+        "Num. Matches": 60,
+        "Goals Scored EMA Short": 1.3287785546496227,
+        "Goals Conceeded EMA Short": 1.7243897948198832,
+        "Goals Scored EMA Long": 1.406591992984356,
+        "Goals Conceeded EMA Long": 2.1640877534048992
+    },
+    "Kiribati": {
+        "Elo": 1232.3491892125153,
+        "Num. Matches": 11,
+        "Goals Scored EMA Short": 0.6648084602880001,
+        "Goals Conceeded EMA Short": 11.264707268608003,
+        "Goals Scored EMA Long": 0.8541343775260003,
+        "Goals Conceeded EMA Long": 8.443115659466
+    },
+    "Saare County": {
+        "Elo": 1340.8468878827234,
+        "Num. Matches": 35,
+        "Goals Scored EMA Short": 1.9235466809118056,
+        "Goals Conceeded EMA Short": 2.0521804624295585,
+        "Goals Scored EMA Long": 1.5692734130564525,
+        "Goals Conceeded EMA Long": 2.2453764464403028
+    },
+    "Latvia": {
+        "Elo": 1348.2544162409963,
+        "Num. Matches": 459,
+        "Goals Scored EMA Short": 0.553506200035067,
+        "Goals Conceeded EMA Short": 1.720912929037063,
+        "Goals Scored EMA Long": 0.5960492330703991,
+        "Goals Conceeded EMA Long": 1.641003195999272
+    },
+    "Alderney": {
+        "Elo": 1076.963303904482,
+        "Num. Matches": 135,
+        "Goals Scored EMA Short": 0.8731104657861763,
+        "Goals Conceeded EMA Short": 3.3322387686031756,
+        "Goals Scored EMA Long": 0.8248723736722258,
+        "Goals Conceeded EMA Long": 3.524343090771012
+    },
+    "Hungary": {
+        "Elo": 1756.8687904773165,
+        "Num. Matches": 1004,
+        "Goals Scored EMA Short": 1.1484565142765115,
+        "Goals Conceeded EMA Short": 1.0994471943750923,
+        "Goals Scored EMA Long": 1.208998097200726,
+        "Goals Conceeded EMA Long": 1.337809649678467
+    },
+    "Uruguay": {
+        "Elo": 1961.7479321483463,
+        "Num. Matches": 968,
+        "Goals Scored EMA Short": 0.7843165095012443,
+        "Goals Conceeded EMA Short": 1.0102944131227416,
+        "Goals Scored EMA Long": 0.9502402208258455,
+        "Goals Conceeded EMA Long": 0.8796431869194401
+    },
+    "Liechtenstein": {
+        "Elo": 1008.8830864539287,
+        "Num. Matches": 257,
+        "Goals Scored EMA Short": 0.47683427559305014,
+        "Goals Conceeded EMA Short": 3.1619820362041784,
+        "Goals Scored EMA Long": 0.3658366735065435,
+        "Goals Conceeded EMA Long": 2.95191364304409
+    },
+    "Two Sicilies": {
+        "Elo": 1405.233178288227,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 0.6744576000000001,
+        "Goals Conceeded EMA Short": 2.9699456000000004,
+        "Goals Scored EMA Long": 0.9586764000000002,
+        "Goals Conceeded EMA Long": 2.2580134000000003
+    },
+    "Czechoslovakia": {
+        "Elo": 1799.0094156544315,
+        "Num. Matches": 520,
+        "Goals Scored EMA Short": 1.9036970021077755,
+        "Goals Conceeded EMA Short": 0.7950791577516427,
+        "Goals Scored EMA Long": 1.8094683100653264,
+        "Goals Conceeded EMA Long": 0.9856266295753199
+    },
+    "Hmong": {
+        "Elo": 1455.7760091240953,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 1.7167999999999999,
+        "Goals Conceeded EMA Short": 2.3408,
+        "Goals Scored EMA Long": 1.5706000000000002,
+        "Goals Conceeded EMA Long": 1.9236000000000004
+    },
+    "Finland": {
+        "Elo": 1612.9562008123778,
+        "Num. Matches": 816,
+        "Goals Scored EMA Short": 1.3910784428195906,
+        "Goals Conceeded EMA Short": 1.1649405038729193,
+        "Goals Scored EMA Long": 1.2467204044535876,
+        "Goals Conceeded EMA Long": 1.4164056481922689
+    },
+    "Bulgaria": {
+        "Elo": 1554.553360124701,
+        "Num. Matches": 734,
+        "Goals Scored EMA Short": 2.259678830074792,
+        "Goals Conceeded EMA Short": 1.9983288924949631,
+        "Goals Scored EMA Long": 1.5720710341084492,
+        "Goals Conceeded EMA Long": 2.0319447186554553
+    },
+    "Northern Ireland": {
+        "Elo": 1650.3397243029142,
+        "Num. Matches": 705,
+        "Goals Scored EMA Short": 0.8606438111090964,
+        "Goals Conceeded EMA Short": 1.1415881009271769,
+        "Goals Scored EMA Long": 1.063770307618405,
+        "Goals Conceeded EMA Long": 1.1965593499630987
+    },
+    "Saint Vincent and the Grenadines": {
+        "Elo": 1350.746820467417,
+        "Num. Matches": 236,
+        "Goals Scored EMA Short": 2.2824595543078754,
+        "Goals Conceeded EMA Short": 1.51464975086619,
+        "Goals Scored EMA Long": 2.186394405280882,
+        "Goals Conceeded EMA Long": 1.4506558763034247
+    },
+    "Jamaica": {
+        "Elo": 1680.2677200629953,
+        "Num. Matches": 660,
+        "Goals Scored EMA Short": 1.0505239887566629,
+        "Goals Conceeded EMA Short": 0.5899089769288366,
+        "Goals Scored EMA Long": 1.303001968941574,
+        "Goals Conceeded EMA Long": 0.7748125618343157
+    },
+    "Djibouti": {
+        "Elo": 1074.7848652937735,
+        "Num. Matches": 111,
+        "Goals Scored EMA Short": 0.4402185252043002,
+        "Goals Conceeded EMA Short": 2.5624556862396646,
+        "Goals Scored EMA Long": 0.5808523017592482,
+        "Goals Conceeded EMA Long": 2.6906365235841987
+    },
+    "Matabeleland": {
+        "Elo": 1483.034694023117,
+        "Num. Matches": 8,
+        "Goals Scored EMA Short": 0.8638320640000002,
+        "Goals Conceeded EMA Short": 1.1422192640000002,
+        "Goals Scored EMA Long": 1.0715307840000003,
+        "Goals Conceeded EMA Long": 1.3954017340000004
+    },
+    "Fr\u00f8ya": {
+        "Elo": 1194.7521501656788,
+        "Num. Matches": 37,
+        "Goals Scored EMA Short": 0.8780124235182113,
+        "Goals Conceeded EMA Short": 4.618710752689584,
+        "Goals Scored EMA Long": 1.1582576870876184,
+        "Goals Conceeded EMA Long": 4.430102733006385
+    },
+    "South Africa": {
+        "Elo": 1653.8359922729014,
+        "Num. Matches": 477,
+        "Goals Scored EMA Short": 1.4395641180821355,
+        "Goals Conceeded EMA Short": 1.2982008135022602,
+        "Goals Scored EMA Long": 1.5668516420221568,
+        "Goals Conceeded EMA Long": 1.047532545034216
+    },
+    "Lesotho": {
+        "Elo": 1414.1801535282257,
+        "Num. Matches": 295,
+        "Goals Scored EMA Short": 0.4819796945132073,
+        "Goals Conceeded EMA Short": 1.3480545378064233,
+        "Goals Scored EMA Long": 0.5911888650647448,
+        "Goals Conceeded EMA Long": 1.4695881511307967
+    },
+    "Biafra": {
+        "Elo": 1514.7940281981741,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 1.0768,
+        "Goals Conceeded EMA Short": 0.8447999999999999,
+        "Goals Scored EMA Long": 1.2106000000000003,
+        "Goals Conceeded EMA Long": 1.1016000000000001
+    },
+    "Paraguay": {
+        "Elo": 1909.4140848116338,
+        "Num. Matches": 782,
+        "Goals Scored EMA Short": 1.1009478198099285,
+        "Goals Conceeded EMA Short": 1.1826752203928255,
+        "Goals Scored EMA Long": 1.0430100968236788,
+        "Goals Conceeded EMA Long": 1.1085456759513008
+    },
+    "Cayman Islands": {
+        "Elo": 1079.3854562920685,
+        "Num. Matches": 118,
+        "Goals Scored EMA Short": 1.1347072529339732,
+        "Goals Conceeded EMA Short": 1.364064933333836,
+        "Goals Scored EMA Long": 0.9831429993268277,
+        "Goals Conceeded EMA Long": 1.8197237762959273
+    },
+    "Galicia": {
+        "Elo": 1525.8931354345957,
+        "Num. Matches": 10,
+        "Goals Scored EMA Short": 1.5587868057600003,
+        "Goals Conceeded EMA Short": 2.2803717529600007,
+        "Goals Scored EMA Long": 1.6117915857400007,
+        "Goals Conceeded EMA Long": 1.9151797560400006
+    },
+    "Morocco": {
+        "Elo": 1977.4577230134537,
+        "Num. Matches": 614,
+        "Goals Scored EMA Short": 1.7258246628416125,
+        "Goals Conceeded EMA Short": 0.4666933768380389,
+        "Goals Scored EMA Long": 1.8713837229009498,
+        "Goals Conceeded EMA Long": 0.37761851287949066
+    },
+    "Timor-Leste": {
+        "Elo": 905.4267791072008,
+        "Num. Matches": 86,
+        "Goals Scored EMA Short": 0.5957301484667562,
+        "Goals Conceeded EMA Short": 3.1157084588715356,
+        "Goals Scored EMA Long": 0.6651840440277454,
+        "Goals Conceeded EMA Long": 3.0038416526762073
+    },
+    "Artsakh": {
+        "Elo": 1557.6520739429106,
+        "Num. Matches": 11,
+        "Goals Scored EMA Short": 2.4423590215680004,
+        "Goals Conceeded EMA Short": 1.2113162567680003,
+        "Goals Scored EMA Long": 2.3402264672360014,
+        "Goals Conceeded EMA Long": 1.3040415315360003
+    },
+    "Mozambique": {
+        "Elo": 1498.8663398806623,
+        "Num. Matches": 374,
+        "Goals Scored EMA Short": 1.0091462577989427,
+        "Goals Conceeded EMA Short": 2.093943996358685,
+        "Goals Scored EMA Long": 1.1213114306830745,
+        "Goals Conceeded EMA Long": 1.7932570881664174
+    },
+    "Marshall Islands": {
+        "Elo": 1417.910759991852,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.2959999999999998,
+        "Goals Conceeded EMA Short": 2.136,
+        "Goals Scored EMA Long": 1.334,
+        "Goals Conceeded EMA Long": 1.7940000000000003
+    },
+    "Costa Rica": {
+        "Elo": 1730.546371239871,
+        "Num. Matches": 722,
+        "Goals Scored EMA Short": 1.2760711103618712,
+        "Goals Conceeded EMA Short": 1.9051676903602766,
+        "Goals Scored EMA Long": 1.7150356265660402,
+        "Goals Conceeded EMA Long": 1.529125522276134
+    },
+    "Saint Kitts and Nevis": {
+        "Elo": 1278.00920928918,
+        "Num. Matches": 226,
+        "Goals Scored EMA Short": 1.9832005709322629,
+        "Goals Conceeded EMA Short": 2.664257593325381,
+        "Goals Scored EMA Long": 1.7917428285969166,
+        "Goals Conceeded EMA Long": 2.3946868224470483
+    },
+    "Malaysia": {
+        "Elo": 1477.4517139846816,
+        "Num. Matches": 835,
+        "Goals Scored EMA Short": 2.1802568815514354,
+        "Goals Conceeded EMA Short": 0.6058601456994632,
+        "Goals Scored EMA Long": 1.9311805378531626,
+        "Goals Conceeded EMA Long": 0.8911064015067999
+    },
+    "S\u00e1pmi": {
+        "Elo": 1487.0388363846457,
+        "Num. Matches": 29,
+        "Goals Scored EMA Short": 1.3521043199004263,
+        "Goals Conceeded EMA Short": 2.28754945815866,
+        "Goals Scored EMA Long": 1.7760610242478823,
+        "Goals Conceeded EMA Long": 2.1068923545308316
+    },
+    "Guam": {
+        "Elo": 1019.3421487531299,
+        "Num. Matches": 120,
+        "Goals Scored EMA Short": 1.7334883555241944,
+        "Goals Conceeded EMA Short": 2.2926413113805104,
+        "Goals Scored EMA Long": 1.2393333247373792,
+        "Goals Conceeded EMA Long": 2.4216733832611093
+    },
+    "Zambia": {
+        "Elo": 1547.084388190772,
+        "Num. Matches": 793,
+        "Goals Scored EMA Short": 0.49979305044516276,
+        "Goals Conceeded EMA Short": 2.344468085408418,
+        "Goals Scored EMA Long": 0.7433374524432228,
+        "Goals Conceeded EMA Long": 1.8602489938324982
+    },
+    "Czech Republic": {
+        "Elo": 1769.6666753749885,
+        "Num. Matches": 358,
+        "Goals Scored EMA Short": 2.1210815158721514,
+        "Goals Conceeded EMA Short": 1.1964682144428807,
+        "Goals Scored EMA Long": 1.9495439604904476,
+        "Goals Conceeded EMA Long": 1.1457845606451542
+    },
+    "French Guiana": {
+        "Elo": 1445.3041263186078,
+        "Num. Matches": 179,
+        "Goals Scored EMA Short": 1.495478835139549,
+        "Goals Conceeded EMA Short": 1.745802888247142,
+        "Goals Scored EMA Long": 1.4897855679877963,
+        "Goals Conceeded EMA Long": 1.494178459878379
+    },
+    "D\u00e9lvid\u00e9k": {
+        "Elo": 1500.2743910387762,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.576,
+        "Goals Conceeded EMA Short": 1.456,
+        "Goals Scored EMA Long": 1.5040000000000002,
+        "Goals Conceeded EMA Long": 1.4240000000000002
+    },
+    "Venezuela": {
+        "Elo": 1791.9025660997165,
+        "Num. Matches": 458,
+        "Goals Scored EMA Short": 1.1506523176841756,
+        "Goals Conceeded EMA Short": 1.345830258307297,
+        "Goals Scored EMA Long": 1.1175318147003974,
+        "Goals Conceeded EMA Long": 1.4682767735823339
+    },
+    "County of Nice": {
+        "Elo": 1593.0587749336073,
+        "Num. Matches": 9,
+        "Goals Scored EMA Short": 2.097622323200001,
+        "Goals Conceeded EMA Short": 1.6673513472000003,
+        "Goals Scored EMA Long": 1.8724470166000005,
+        "Goals Conceeded EMA Long": 1.4845196686000004
+    },
+    "G\u0103g\u0103uzia": {
+        "Elo": 1429.7832225234138,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 1.0768,
+        "Goals Conceeded EMA Short": 2.1328000000000005,
+        "Goals Scored EMA Long": 1.2106000000000003,
+        "Goals Conceeded EMA Long": 1.8226000000000002
+    },
+    "Mauritius": {
+        "Elo": 1206.765432423561,
+        "Num. Matches": 325,
+        "Goals Scored EMA Short": 0.5048940117390818,
+        "Goals Conceeded EMA Short": 1.532432945569623,
+        "Goals Scored EMA Long": 0.6290801251746758,
+        "Goals Conceeded EMA Long": 1.4722460444217935
+    },
+    "Sweden": {
+        "Elo": 1764.9651927664888,
+        "Num. Matches": 1099,
+        "Goals Scored EMA Short": 1.8870648613794407,
+        "Goals Conceeded EMA Short": 1.7031350405013619,
+        "Goals Scored EMA Long": 1.9040950408548334,
+        "Goals Conceeded EMA Long": 1.5772348204001534
+    },
+    "Estonia": {
+        "Elo": 1396.5004550613107,
+        "Num. Matches": 548,
+        "Goals Scored EMA Short": 1.072700003651997,
+        "Goals Conceeded EMA Short": 2.0131267322925535,
+        "Goals Scored EMA Long": 0.9939340271316675,
+        "Goals Conceeded EMA Long": 2.0269755445947792
+    },
+    "Vatican City": {
+        "Elo": 1418.4432309556466,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 0.84105728,
+        "Goals Conceeded EMA Short": 2.0227532800000003,
+        "Goals Scored EMA Long": 0.9942746600000003,
+        "Goals Conceeded EMA Long": 1.8860036600000005
+    },
+    "Fiji": {
+        "Elo": 1431.8639278227379,
+        "Num. Matches": 267,
+        "Goals Scored EMA Short": 0.5936518591935346,
+        "Goals Conceeded EMA Short": 2.9863242229573124,
+        "Goals Scored EMA Long": 1.1553668278411928,
+        "Goals Conceeded EMA Long": 2.3686888849766854
+    },
+    "Guinea": {
+        "Elo": 1583.8666298132566,
+        "Num. Matches": 538,
+        "Goals Scored EMA Short": 1.2401471621799094,
+        "Goals Conceeded EMA Short": 0.9964174549415581,
+        "Goals Scored EMA Long": 1.352581570036703,
+        "Goals Conceeded EMA Long": 0.9197208058945789
+    },
+    "South Yemen": {
+        "Elo": 1467.8999897081417,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 0.8767999999999999,
+        "Goals Conceeded EMA Short": 1.9808000000000003,
+        "Goals Scored EMA Long": 1.1106000000000003,
+        "Goals Conceeded EMA Long": 1.7336000000000003
+    },
+    "Turkmenistan": {
+        "Elo": 1393.124207440137,
+        "Num. Matches": 175,
+        "Goals Scored EMA Short": 1.7323328497376271,
+        "Goals Conceeded EMA Short": 1.2016291282246745,
+        "Goals Scored EMA Long": 1.4106608568089352,
+        "Goals Conceeded EMA Long": 1.43320660020421
+    },
+    "Felvid\u00e9k": {
+        "Elo": 1509.2385860035658,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 1.0503317110784,
+        "Goals Conceeded EMA Short": 1.1964729196544004,
+        "Goals Scored EMA Long": 1.1686172820014005,
+        "Goals Conceeded EMA Long": 1.4202664256124007
+    },
+    "Elba Island": {
+        "Elo": 1506.7680088288748,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 2.12,
+        "Goals Conceeded EMA Short": 1.1199999999999999,
+        "Goals Scored EMA Long": 1.76,
+        "Goals Conceeded EMA Long": 1.26
+    },
+    "Greece": {
+        "Elo": 1788.2542301948004,
+        "Num. Matches": 631,
+        "Goals Scored EMA Short": 1.08586201354427,
+        "Goals Conceeded EMA Short": 1.1031190823315598,
+        "Goals Scored EMA Long": 1.494215241003863,
+        "Goals Conceeded EMA Long": 1.097839240912847
+    },
+    "Taiwan": {
+        "Elo": 1079.2057566989217,
+        "Num. Matches": 237,
+        "Goals Scored EMA Short": 0.9742879612032229,
+        "Goals Conceeded EMA Short": 3.336893659133088,
+        "Goals Scored EMA Long": 1.1164027500344644,
+        "Goals Conceeded EMA Long": 2.8944533662337886
+    },
+    "Chameria": {
+        "Elo": 1553.9605524166343,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 1.85585408,
+        "Goals Conceeded EMA Short": 1.1964236800000003,
+        "Goals Scored EMA Long": 1.7013957600000005,
+        "Goals Conceeded EMA Long": 1.2580969600000005
+    },
+    "Cuba": {
+        "Elo": 1428.3965009878016,
+        "Num. Matches": 397,
+        "Goals Scored EMA Short": 1.3236244767382677,
+        "Goals Conceeded EMA Short": 1.4808195873461087,
+        "Goals Scored EMA Long": 1.2067228085070196,
+        "Goals Conceeded EMA Long": 1.6789276930902886
+    },
+    "Bahamas": {
+        "Elo": 979.4400791028,
+        "Num. Matches": 67,
+        "Goals Scored EMA Short": 0.7356066805266231,
+        "Goals Conceeded EMA Short": 3.62248182569867,
+        "Goals Scored EMA Long": 0.9507764361105144,
+        "Goals Conceeded EMA Long": 3.604551964516175
+    },
+    "Sark": {
+        "Elo": 1327.6897027648083,
+        "Num. Matches": 4,
+        "Goals Scored EMA Short": 0.5734400000000001,
+        "Goals Conceeded EMA Short": 10.639040000000001,
+        "Goals Scored EMA Long": 0.9185400000000001,
+        "Goals Conceeded EMA Long": 6.86364
+    },
+    "Maldives": {
+        "Elo": 1065.2741093391583,
+        "Num. Matches": 231,
+        "Goals Scored EMA Short": 0.5784870800598269,
+        "Goals Conceeded EMA Short": 1.9120381583739121,
+        "Goals Scored EMA Long": 0.7908208940429492,
+        "Goals Conceeded EMA Long": 1.8217666083052402
+    },
+    "Tamil Eelam": {
+        "Elo": 1506.2218069271228,
+        "Num. Matches": 24,
+        "Goals Scored EMA Short": 2.354454388588127,
+        "Goals Conceeded EMA Short": 1.8308397346644119,
+        "Goals Scored EMA Long": 2.324538921456054,
+        "Goals Conceeded EMA Long": 2.119960501203696
+    },
+    "Guatemala": {
+        "Elo": 1643.9303839223978,
+        "Num. Matches": 552,
+        "Goals Scored EMA Short": 1.2699306978266716,
+        "Goals Conceeded EMA Short": 2.4544103871067646,
+        "Goals Scored EMA Long": 1.299237699055282,
+        "Goals Conceeded EMA Long": 1.8734412815193284
+    },
+    "Albania": {
+        "Elo": 1697.24941200521,
+        "Num. Matches": 396,
+        "Goals Scored EMA Short": 0.9025616395261141,
+        "Goals Conceeded EMA Short": 1.0810732122040558,
+        "Goals Scored EMA Long": 1.0121606273982307,
+        "Goals Conceeded EMA Long": 0.9734546267775236
+    },
+    "Canary Islands": {
+        "Elo": 1515.0291408942237,
+        "Num. Matches": 4,
+        "Goals Scored EMA Short": 1.9974400000000005,
+        "Goals Conceeded EMA Short": 0.99584,
+        "Goals Scored EMA Long": 1.80704,
+        "Goals Conceeded EMA Long": 1.17144
+    },
+    "Tajikistan": {
+        "Elo": 1430.4924263480505,
+        "Num. Matches": 199,
+        "Goals Scored EMA Short": 2.494743400276959,
+        "Goals Conceeded EMA Short": 0.7674029544362937,
+        "Goals Scored EMA Long": 1.8803281632853517,
+        "Goals Conceeded EMA Long": 0.9756693740757889
+    },
+    "Haiti": {
+        "Elo": 1689.2599852566934,
+        "Num. Matches": 508,
+        "Goals Scored EMA Short": 1.2716505795303974,
+        "Goals Conceeded EMA Short": 1.0046816510776393,
+        "Goals Scored EMA Long": 1.7648564634251007,
+        "Goals Conceeded EMA Long": 1.1159496395134765
+    },
+    "Rwanda": {
+        "Elo": 1444.9714244922177,
+        "Num. Matches": 280,
+        "Goals Scored EMA Short": 1.2529956340156665,
+        "Goals Conceeded EMA Short": 0.9366956110511119,
+        "Goals Scored EMA Long": 0.9509404713672001,
+        "Goals Conceeded EMA Long": 1.0224938168885889
+    },
+    "Azerbaijan": {
+        "Elo": 1412.8408972764498,
+        "Num. Matches": 308,
+        "Goals Scored EMA Short": 1.5027354250198037,
+        "Goals Conceeded EMA Short": 1.9191209020677762,
+        "Goals Scored EMA Long": 1.1368677182345646,
+        "Goals Conceeded EMA Long": 2.058591338848026
+    },
+    "Western Australia": {
+        "Elo": 1401.9985643537436,
+        "Num. Matches": 32,
+        "Goals Scored EMA Short": 1.4976274957128926,
+        "Goals Conceeded EMA Short": 1.6635531185578487,
+        "Goals Scored EMA Long": 1.5900925576656504,
+        "Goals Conceeded EMA Long": 1.9612325608777799
+    },
+    "Ivory Coast": {
+        "Elo": 1792.291759945133,
+        "Num. Matches": 635,
+        "Goals Scored EMA Short": 2.1496971687892783,
+        "Goals Conceeded EMA Short": 0.668836380872599,
+        "Goals Scored EMA Long": 1.9716702122519771,
+        "Goals Conceeded EMA Long": 0.6161024465942485
+    },
+    "Libya": {
+        "Elo": 1527.9329571221756,
+        "Num. Matches": 384,
+        "Goals Scored EMA Short": 0.9992961943417817,
+        "Goals Conceeded EMA Short": 0.8020690249963771,
+        "Goals Scored EMA Long": 1.066995126797623,
+        "Goals Conceeded EMA Long": 0.8602473708352334
+    },
+    "Niger": {
+        "Elo": 1507.5210948554052,
+        "Num. Matches": 258,
+        "Goals Scored EMA Short": 1.0436998711910144,
+        "Goals Conceeded EMA Short": 1.1296190845923926,
+        "Goals Scored EMA Long": 1.2794854640665616,
+        "Goals Conceeded EMA Long": 1.2702926948245852
+    },
+    "Crimea": {
+        "Elo": 1505.0936043099875,
+        "Num. Matches": 5,
+        "Goals Scored EMA Short": 1.497152,
+        "Goals Conceeded EMA Short": 1.9163520000000003,
+        "Goals Scored EMA Long": 1.4315860000000005,
+        "Goals Conceeded EMA Long": 1.7157360000000004
+    },
+    "Myanmar": {
+        "Elo": 1131.656289216984,
+        "Num. Matches": 510,
+        "Goals Scored EMA Short": 0.9170162912680339,
+        "Goals Conceeded EMA Short": 2.464879096488882,
+        "Goals Scored EMA Long": 0.9862088776191624,
+        "Goals Conceeded EMA Long": 2.3883145763150537
+    },
+    "Singapore": {
+        "Elo": 1284.0938120384765,
+        "Num. Matches": 694,
+        "Goals Scored EMA Short": 1.5832113922446909,
+        "Goals Conceeded EMA Short": 1.479408966248269,
+        "Goals Scored EMA Long": 1.4464809213786136,
+        "Goals Conceeded EMA Long": 1.6111856132713651
+    },
+    "Niue": {
+        "Elo": 1427.1360189242532,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 0.8959999999999999,
+        "Goals Conceeded EMA Short": 6.936,
+        "Goals Scored EMA Long": 1.1340000000000001,
+        "Goals Conceeded EMA Long": 4.2940000000000005
+    },
+    "K\u00e1rp\u00e1talja": {
+        "Elo": 1607.010638015655,
+        "Num. Matches": 11,
+        "Goals Scored EMA Short": 2.2992773447680004,
+        "Goals Conceeded EMA Short": 1.0508517703680003,
+        "Goals Scored EMA Long": 2.068816180536001,
+        "Goals Conceeded EMA Long": 1.1992491594360004
+    },
+    "Serbia": {
+        "Elo": 1813.1259316116516,
+        "Num. Matches": 346,
+        "Goals Scored EMA Short": 1.1488323771830125,
+        "Goals Conceeded EMA Short": 1.5030517544396569,
+        "Goals Scored EMA Long": 1.1182048670100262,
+        "Goals Conceeded EMA Long": 1.3004816552898202
+    },
+    "Afghanistan": {
+        "Elo": 1240.5256180421934,
+        "Num. Matches": 144,
+        "Goals Scored EMA Short": 0.487387870800458,
+        "Goals Conceeded EMA Short": 1.3109275381233076,
+        "Goals Scored EMA Long": 0.5817073222569572,
+        "Goals Conceeded EMA Long": 1.550475421741017
+    },
+    "Yemen DPR": {
+        "Elo": 1363.1199325774114,
+        "Num. Matches": 25,
+        "Goals Scored EMA Short": 0.9163694949075418,
+        "Goals Conceeded EMA Short": 2.4124090985151407,
+        "Goals Scored EMA Long": 0.9654926084693964,
+        "Goals Conceeded EMA Long": 2.52223488638864
+    },
+    "Syria": {
+        "Elo": 1598.4807606936301,
+        "Num. Matches": 483,
+        "Goals Scored EMA Short": 1.3206450599560733,
+        "Goals Conceeded EMA Short": 0.6324842131794948,
+        "Goals Scored EMA Long": 1.5455786092847825,
+        "Goals Conceeded EMA Long": 0.8356391419668864
+    },
+    "Tonga": {
+        "Elo": 1087.6119348175605,
+        "Num. Matches": 68,
+        "Goals Scored EMA Short": 1.419733273428005,
+        "Goals Conceeded EMA Short": 2.9506977478620753,
+        "Goals Scored EMA Long": 1.21360576884617,
+        "Goals Conceeded EMA Long": 3.5667285793509724
+    },
+    "Seychelles": {
+        "Elo": 1010.5409989965634,
+        "Num. Matches": 176,
+        "Goals Scored EMA Short": 0.1393751248296734,
+        "Goals Conceeded EMA Short": 5.135463086178098,
+        "Goals Scored EMA Long": 0.26633669976282953,
+        "Goals Conceeded EMA Long": 4.145643170445059
+    },
+    "Yemen": {
+        "Elo": 1310.6285887431172,
+        "Num. Matches": 266,
+        "Goals Scored EMA Short": 3.597150427303453,
+        "Goals Conceeded EMA Short": 1.3364705106044332,
+        "Goals Scored EMA Long": 2.4253381618535306,
+        "Goals Conceeded EMA Long": 1.3498633196790604
+    },
+    "Saarland": {
+        "Elo": 1446.8567413216701,
+        "Num. Matches": 9,
+        "Goals Scored EMA Short": 1.2264241152000004,
+        "Goals Conceeded EMA Short": 2.6788908032000007,
+        "Goals Scored EMA Long": 1.2400878476000006,
+        "Goals Conceeded EMA Long": 2.324888196600001
+    },
+    "India": {
+        "Elo": 1265.6963965375169,
+        "Num. Matches": 530,
+        "Goals Scored EMA Short": 0.5653387775741164,
+        "Goals Conceeded EMA Short": 1.1808580102607817,
+        "Goals Scored EMA Long": 0.6511302393822009,
+        "Goals Conceeded EMA Long": 1.1513194811022058
+    },
+    "New Caledonia": {
+        "Elo": 1601.1099656886984,
+        "Num. Matches": 265,
+        "Goals Scored EMA Short": 1.6946061565575001,
+        "Goals Conceeded EMA Short": 1.0310896689623001,
+        "Goals Scored EMA Long": 2.0757756192644807,
+        "Goals Conceeded EMA Long": 1.0726053354205844
+    },
+    "Bhutan": {
+        "Elo": 880.5526732762498,
+        "Num. Matches": 109,
+        "Goals Scored EMA Short": 0.4479020225493251,
+        "Goals Conceeded EMA Short": 3.163057229477837,
+        "Goals Scored EMA Long": 0.4701282376810224,
+        "Goals Conceeded EMA Long": 2.8428617935390634
+    },
+    "Austria": {
+        "Elo": 1883.2295490348513,
+        "Num. Matches": 859,
+        "Goals Scored EMA Short": 2.4937228396139086,
+        "Goals Conceeded EMA Short": 0.5704142666207915,
+        "Goals Scored EMA Long": 2.4071974637263183,
+        "Goals Conceeded EMA Long": 0.700988696743805
+    },
+    "Canada": {
+        "Elo": 1878.6364804349819,
+        "Num. Matches": 467,
+        "Goals Scored EMA Short": 1.0693187287874548,
+        "Goals Conceeded EMA Short": 0.5043921975990642,
+        "Goals Scored EMA Long": 1.2787877906476146,
+        "Goals Conceeded EMA Long": 0.6124363321262555
+    },
+    "Western Sahara": {
+        "Elo": 1489.1110199466398,
+        "Num. Matches": 5,
+        "Goals Scored EMA Short": 1.9835520000000002,
+        "Goals Conceeded EMA Short": 2.292672000000001,
+        "Goals Scored EMA Long": 1.7474860000000003,
+        "Goals Conceeded EMA Long": 2.038746
+    },
+    "Mayotte": {
+        "Elo": 1454.1663278748647,
+        "Num. Matches": 38,
+        "Goals Scored EMA Short": 1.0193359638628203,
+        "Goals Conceeded EMA Short": 0.662430551141486,
+        "Goals Scored EMA Long": 1.2236292188347384,
+        "Goals Conceeded EMA Long": 0.9370223326331424
+    },
+    "Abkhazia": {
+        "Elo": 1625.6561304573092,
+        "Num. Matches": 32,
+        "Goals Scored EMA Short": 1.3542485209674826,
+        "Goals Conceeded EMA Short": 0.5958295649505523,
+        "Goals Scored EMA Long": 1.5682885434546894,
+        "Goals Conceeded EMA Long": 0.7251740857529629
+    },
+    "Bangladesh": {
+        "Elo": 1127.542098827809,
+        "Num. Matches": 304,
+        "Goals Scored EMA Short": 0.9892123517468161,
+        "Goals Conceeded EMA Short": 1.5964725325980558,
+        "Goals Scored EMA Long": 0.9304485911742788,
+        "Goals Conceeded EMA Long": 1.5377405929562802
+    },
+    "Botswana": {
+        "Elo": 1384.2964904828218,
+        "Num. Matches": 332,
+        "Goals Scored EMA Short": 0.5193054609470253,
+        "Goals Conceeded EMA Short": 1.735236994655065,
+        "Goals Scored EMA Long": 0.6600915290487374,
+        "Goals Conceeded EMA Long": 1.6350948035265327
+    },
+    "Franconia": {
+        "Elo": 1478.175578022281,
+        "Num. Matches": 3,
+        "Goals Scored EMA Short": 2.0288000000000004,
+        "Goals Conceeded EMA Short": 2.5328000000000004,
+        "Goals Scored EMA Long": 1.7446000000000002,
+        "Goals Conceeded EMA Long": 2.0226
+    },
+    "Moldova": {
+        "Elo": 1300.63224878591,
+        "Num. Matches": 297,
+        "Goals Scored EMA Short": 0.8430138773129637,
+        "Goals Conceeded EMA Short": 2.926156107300935,
+        "Goals Scored EMA Long": 0.8284199231509026,
+        "Goals Conceeded EMA Long": 2.6715409845189004
+    },
+    "Croatia": {
+        "Elo": 1972.5767686005452,
+        "Num. Matches": 394,
+        "Goals Scored EMA Short": 2.1906867710056797,
+        "Goals Conceeded EMA Short": 1.2847936506550952,
+        "Goals Scored EMA Long": 2.1599010064962654,
+        "Goals Conceeded EMA Long": 1.072760859599874
+    },
+    "Guadeloupe": {
+        "Elo": 1522.090803112523,
+        "Num. Matches": 271,
+        "Goals Scored EMA Short": 1.6404212375784346,
+        "Goals Conceeded EMA Short": 1.7119392676043785,
+        "Goals Scored EMA Long": 1.74004447837376,
+        "Goals Conceeded EMA Long": 1.3076021403639404
+    },
+    "Republic of Ireland": {
+        "Elo": 1740.201579544647,
+        "Num. Matches": 630,
+        "Goals Scored EMA Short": 1.2710598716568418,
+        "Goals Conceeded EMA Short": 1.0338345503337092,
+        "Goals Scored EMA Long": 1.1752321518678772,
+        "Goals Conceeded EMA Long": 1.1689847827898456
+    },
+    "Uganda": {
+        "Elo": 1510.0619852260627,
+        "Num. Matches": 685,
+        "Goals Scored EMA Short": 1.1049543817664056,
+        "Goals Conceeded EMA Short": 1.9511232741359041,
+        "Goals Scored EMA Long": 1.1388824996728644,
+        "Goals Conceeded EMA Long": 1.6074253363414752
+    },
+    "South Korea": {
+        "Elo": 1874.3434895148805,
+        "Num. Matches": 1005,
+        "Goals Scored EMA Short": 1.0617551939134804,
+        "Goals Conceeded EMA Short": 1.3706492961152348,
+        "Goals Scored EMA Long": 1.495801317343206,
+        "Goals Conceeded EMA Long": 1.1675832679328648
+    },
+    "China PR": {
+        "Elo": 1550.5970465708212,
+        "Num. Matches": 700,
+        "Goals Scored EMA Short": 0.9069007216291862,
+        "Goals Conceeded EMA Short": 1.3288841630118666,
+        "Goals Scored EMA Long": 0.9360761883746347,
+        "Goals Conceeded EMA Long": 1.4264639479890666
+    },
+    "Algeria": {
+        "Elo": 1851.3262281730229,
+        "Num. Matches": 615,
+        "Goals Scored EMA Short": 2.137335857049439,
+        "Goals Conceeded EMA Short": 0.4642876066825934,
+        "Goals Scored EMA Long": 2.194336422591777,
+        "Goals Conceeded EMA Long": 0.5541015046849072
+    },
+    "Ellan Vannin": {
+        "Elo": 1570.6174683451393,
+        "Num. Matches": 22,
+        "Goals Scored EMA Short": 1.7309106185903855,
+        "Goals Conceeded EMA Short": 1.358177982512006,
+        "Goals Scored EMA Long": 1.9043852424029981,
+        "Goals Conceeded EMA Long": 1.427377668779322
+    },
+    "Dominica": {
+        "Elo": 1181.9113888580102,
+        "Num. Matches": 215,
+        "Goals Scored EMA Short": 0.7256695627137731,
+        "Goals Conceeded EMA Short": 1.778279450872675,
+        "Goals Scored EMA Long": 0.907636014461991,
+        "Goals Conceeded EMA Long": 1.9031370042200113
+    },
+    "Malta": {
+        "Elo": 1331.406603438394,
+        "Num. Matches": 456,
+        "Goals Scored EMA Short": 1.0774225600809455,
+        "Goals Conceeded EMA Short": 2.2916300318291745,
+        "Goals Scored EMA Long": 0.8752221733599659,
+        "Goals Conceeded EMA Long": 2.10046685012777
+    },
+    "Yorkshire": {
+        "Elo": 1553.3098729640044,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 3.2150860800000016,
+        "Goals Conceeded EMA Short": 1.5466700800000002,
+        "Goals Scored EMA Long": 2.6542237600000007,
+        "Goals Conceeded EMA Long": 1.50377976
+    },
+    "Tunisia": {
+        "Elo": 1742.840275876894,
+        "Num. Matches": 676,
+        "Goals Scored EMA Short": 1.2679653817991792,
+        "Goals Conceeded EMA Short": 0.7676518596118711,
+        "Goals Scored EMA Long": 1.5015882946387895,
+        "Goals Conceeded EMA Long": 0.8121378614431518
+    },
+    "Sudan": {
+        "Elo": 1468.2147345272012,
+        "Num. Matches": 469,
+        "Goals Scored EMA Short": 0.5221422174605703,
+        "Goals Conceeded EMA Short": 1.816976128891869,
+        "Goals Scored EMA Long": 0.5077146081301072,
+        "Goals Conceeded EMA Long": 1.4619945555800955
+    },
+    "Western Isles": {
+        "Elo": 1436.1118574144116,
+        "Num. Matches": 34,
+        "Goals Scored EMA Short": 1.3843314627156973,
+        "Goals Conceeded EMA Short": 1.7731443418521409,
+        "Goals Scored EMA Long": 1.295292069372217,
+        "Goals Conceeded EMA Long": 2.0584112561904853
+    },
+    "Suriname": {
+        "Elo": 1582.368024422228,
+        "Num. Matches": 399,
+        "Goals Scored EMA Short": 1.398902420981075,
+        "Goals Conceeded EMA Short": 1.3847335821560822,
+        "Goals Scored EMA Long": 1.3832443016554452,
+        "Goals Conceeded EMA Long": 1.2150799919489648
+    },
+    "Cascadia": {
+        "Elo": 1545.3879787058206,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 3.2630220800000007,
+        "Goals Conceeded EMA Short": 1.9560524800000005,
+        "Goals Scored EMA Long": 2.5014177600000007,
+        "Goals Conceeded EMA Long": 1.7299410600000005
+    },
+    "United Koreans in Japan": {
+        "Elo": 1501.530240962566,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 1.6299873542144003,
+        "Goals Conceeded EMA Short": 0.9189272264704003,
+        "Goals Scored EMA Long": 1.6125977705824004,
+        "Goals Conceeded EMA Long": 1.0255700640034005
+    },
+    "Saint Martin": {
+        "Elo": 1312.6263183200583,
+        "Num. Matches": 68,
+        "Goals Scored EMA Short": 1.9237768716088095,
+        "Goals Conceeded EMA Short": 1.3303019926115542,
+        "Goals Scored EMA Long": 1.8719470237058407,
+        "Goals Conceeded EMA Long": 1.6498821938096402
+    },
+    "Vietnam": {
+        "Elo": 1480.689089757981,
+        "Num. Matches": 297,
+        "Goals Scored EMA Short": 2.2829184227498187,
+        "Goals Conceeded EMA Short": 0.7217171126421356,
+        "Goals Scored EMA Long": 2.108719067416534,
+        "Goals Conceeded EMA Long": 1.0015571551872644
+    },
+    "Ethiopia": {
+        "Elo": 1382.4068890782557,
+        "Num. Matches": 407,
+        "Goals Scored EMA Short": 1.0387360069108291,
+        "Goals Conceeded EMA Short": 1.733281512304256,
+        "Goals Scored EMA Long": 0.9813696024205556,
+        "Goals Conceeded EMA Long": 1.6190314922636713
+    },
+    "Martinique": {
+        "Elo": 1484.5052291570591,
+        "Num. Matches": 331,
+        "Goals Scored EMA Short": 0.5686076143907209,
+        "Goals Conceeded EMA Short": 1.1550342287367668,
+        "Goals Scored EMA Long": 0.7672222477441515,
+        "Goals Conceeded EMA Long": 1.2958641882653321
+    },
+    "Luhansk PR": {
+        "Elo": 1489.3134405941141,
+        "Num. Matches": 6,
+        "Goals Scored EMA Short": 1.6431616,
+        "Goals Conceeded EMA Short": 1.9720576000000003,
+        "Goals Scored EMA Long": 1.4947474000000005,
+        "Goals Conceeded EMA Long": 1.7212764000000003
+    },
+    "Bermuda": {
+        "Elo": 1311.0658203282512,
+        "Num. Matches": 197,
+        "Goals Scored EMA Short": 0.9435520974920888,
+        "Goals Conceeded EMA Short": 3.107063983724054,
+        "Goals Scored EMA Long": 1.3028696927714716,
+        "Goals Conceeded EMA Long": 2.8595901942501505
+    },
+    "Saugeais": {
+        "Elo": 1494.7414626200355,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.3199999999999998,
+        "Goals Conceeded EMA Short": 1.3199999999999998,
+        "Goals Scored EMA Long": 1.36,
+        "Goals Conceeded EMA Long": 1.36
+    },
+    "Gabon": {
+        "Elo": 1518.19546199113,
+        "Num. Matches": 405,
+        "Goals Scored EMA Short": 1.6732457503056266,
+        "Goals Conceeded EMA Short": 2.186961577613032,
+        "Goals Scored EMA Long": 1.6752900424179384,
+        "Goals Conceeded EMA Long": 1.8456202970273028
+    },
+    "South Sudan": {
+        "Elo": 1269.7613008571357,
+        "Num. Matches": 78,
+        "Goals Scored EMA Short": 0.3349399786797322,
+        "Goals Conceeded EMA Short": 1.9081999161969825,
+        "Goals Scored EMA Long": 0.5037859559173027,
+        "Goals Conceeded EMA Long": 1.8588983151635363
+    },
+    "Burundi": {
+        "Elo": 1385.0395723036988,
+        "Num. Matches": 217,
+        "Goals Scored EMA Short": 0.44443331515521856,
+        "Goals Conceeded EMA Short": 1.2605408909155278,
+        "Goals Scored EMA Long": 0.756071304608851,
+        "Goals Conceeded EMA Long": 1.3559864599285145
+    },
+    "German DR": {
+        "Elo": 1728.7109389378522,
+        "Num. Matches": 298,
+        "Goals Scored EMA Short": 1.932060727527015,
+        "Goals Conceeded EMA Short": 1.1509355686427856,
+        "Goals Scored EMA Long": 1.735977835023236,
+        "Goals Conceeded EMA Long": 1.2553473628976983
+    },
+    "Aruba": {
+        "Elo": 1231.0814771329203,
+        "Num. Matches": 151,
+        "Goals Scored EMA Short": 2.227179624605866,
+        "Goals Conceeded EMA Short": 1.4398426862738005,
+        "Goals Scored EMA Long": 1.7744802676518319,
+        "Goals Conceeded EMA Long": 1.7887660361798792
+    },
+    "Zanzibar": {
+        "Elo": 1531.7291537909591,
+        "Num. Matches": 209,
+        "Goals Scored EMA Short": 1.2329061492550148,
+        "Goals Conceeded EMA Short": 0.8603973607247672,
+        "Goals Scored EMA Long": 1.2687282105475948,
+        "Goals Conceeded EMA Long": 1.0254522320230415
+    },
+    "Laos": {
+        "Elo": 944.4951493566595,
+        "Num. Matches": 224,
+        "Goals Scored EMA Short": 0.7939914162649098,
+        "Goals Conceeded EMA Short": 2.831676078238154,
+        "Goals Scored EMA Long": 0.9005896644549871,
+        "Goals Conceeded EMA Long": 2.6384378920875817
+    },
+    "North Macedonia": {
+        "Elo": 1641.3601143896267,
+        "Num. Matches": 304,
+        "Goals Scored EMA Short": 0.7424529831767688,
+        "Goals Conceeded EMA Short": 1.7899743105469696,
+        "Goals Scored EMA Long": 1.044720505949724,
+        "Goals Conceeded EMA Long": 1.4552878549761306
+    },
+    "Norway": {
+        "Elo": 1943.2104442308105,
+        "Num. Matches": 870,
+        "Goals Scored EMA Short": 2.5828376403905295,
+        "Goals Conceeded EMA Short": 0.813826516605197,
+        "Goals Scored EMA Long": 2.803642992411332,
+        "Goals Conceeded EMA Long": 0.868326431271601
+    },
+    "Turkey": {
+        "Elo": 1945.5096373748536,
+        "Num. Matches": 640,
+        "Goals Scored EMA Short": 1.9353358642141942,
+        "Goals Conceeded EMA Short": 0.9738128731906702,
+        "Goals Scored EMA Long": 1.9627197442657556,
+        "Goals Conceeded EMA Long": 1.2038414846850218
+    },
+    "Nigeria": {
+        "Elo": 1865.0433759765074,
+        "Num. Matches": 657,
+        "Goals Scored EMA Short": 1.7747686902989064,
+        "Goals Conceeded EMA Short": 0.840149561382545,
+        "Goals Scored EMA Long": 1.8335761061691584,
+        "Goals Conceeded EMA Long": 0.8110286442659747
+    },
+    "Belize": {
+        "Elo": 1291.6608527629064,
+        "Num. Matches": 121,
+        "Goals Scored EMA Short": 1.7448043155428035,
+        "Goals Conceeded EMA Short": 2.3523762416481677,
+        "Goals Scored EMA Long": 1.5268631052378097,
+        "Goals Conceeded EMA Long": 2.095286894076308
+    },
+    "Kernow": {
+        "Elo": 1595.6284395940095,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 2.6465121255424,
+        "Goals Conceeded EMA Short": 1.0441898860544003,
+        "Goals Scored EMA Long": 2.334753582820401,
+        "Goals Conceeded EMA Long": 1.2930172346674005
+    },
+    "Russia": {
+        "Elo": 1835.6456869550125,
+        "Num. Matches": 746,
+        "Goals Scored EMA Short": 1.730588034284104,
+        "Goals Conceeded EMA Short": 0.7251228228725988,
+        "Goals Scored EMA Long": 2.110043296184006,
+        "Goals Conceeded EMA Long": 0.6778620447250374
+    },
+    "Bahrain": {
+        "Elo": 1535.7061671251606,
+        "Num. Matches": 583,
+        "Goals Scored EMA Short": 1.2581265785232485,
+        "Goals Conceeded EMA Short": 1.8387280457762245,
+        "Goals Scored EMA Long": 1.0941503611759518,
+        "Goals Conceeded EMA Long": 1.599502124344001
+    },
+    "Congo": {
+        "Elo": 1326.9664773050629,
+        "Num. Matches": 406,
+        "Goals Scored EMA Short": 0.6766487048254826,
+        "Goals Conceeded EMA Short": 1.9397491104631592,
+        "Goals Scored EMA Long": 0.7709433369943681,
+        "Goals Conceeded EMA Long": 2.015416660187375
+    },
+    "Samoa": {
+        "Elo": 1245.5435909005196,
+        "Num. Matches": 71,
+        "Goals Scored EMA Short": 1.0045989257323718,
+        "Goals Conceeded EMA Short": 3.6903157062143,
+        "Goals Scored EMA Long": 1.2912645195084453,
+        "Goals Conceeded EMA Long": 3.3141989477403637
+    },
+    "Sealand": {
+        "Elo": 1483.99106069713,
+        "Num. Matches": 12,
+        "Goals Scored EMA Short": 2.748975371878401,
+        "Goals Conceeded EMA Short": 2.0978470928384008,
+        "Goals Scored EMA Long": 2.2167938752014003,
+        "Goals Conceeded EMA Long": 2.083075022221401
+    },
+    "Uzbekistan": {
+        "Elo": 1822.6806726146137,
+        "Num. Matches": 352,
+        "Goals Scored EMA Short": 1.3679969875505795,
+        "Goals Conceeded EMA Short": 0.6539677506034764,
+        "Goals Scored EMA Long": 1.4258420336890731,
+        "Goals Conceeded EMA Long": 0.658255998835003
+    },
+    "West Papua": {
+        "Elo": 1495.098726936803,
+        "Num. Matches": 1,
+        "Goals Scored EMA Short": 1.3199999999999998,
+        "Goals Conceeded EMA Short": 1.3199999999999998,
+        "Goals Scored EMA Long": 1.36,
+        "Goals Conceeded EMA Long": 1.36
+    },
+    "Micronesia": {
+        "Elo": 1326.9563926921517,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 0.9325772800000002,
+        "Goals Conceeded EMA Short": 7.877831680000002,
+        "Goals Scored EMA Long": 1.1879346600000003,
+        "Goals Conceeded EMA Long": 5.392543960000001
+    },
+    "Vietnam Republic": {
+        "Elo": 1366.6754630510618,
+        "Num. Matches": 195,
+        "Goals Scored EMA Short": 0.7082939797163272,
+        "Goals Conceeded EMA Short": 2.301066261841027,
+        "Goals Scored EMA Long": 1.080898623120915,
+        "Goals Conceeded EMA Long": 1.977584404439381
+    },
+    "Monaco": {
+        "Elo": 1451.2751691075982,
+        "Num. Matches": 24,
+        "Goals Scored EMA Short": 1.1639339467209273,
+        "Goals Conceeded EMA Short": 3.151599575389458,
+        "Goals Scored EMA Long": 1.4598644772665081,
+        "Goals Conceeded EMA Long": 3.5174145471973
+    },
+    "Poland": {
+        "Elo": 1785.843244976366,
+        "Num. Matches": 890,
+        "Goals Scored EMA Short": 1.8807092418304738,
+        "Goals Conceeded EMA Short": 1.4487761206073733,
+        "Goals Scored EMA Long": 1.7344680547033755,
+        "Goals Conceeded EMA Long": 1.3606412023104644
+    },
+    "United Arab Emirates": {
+        "Elo": 1659.015200721074,
+        "Num. Matches": 612,
+        "Goals Scored EMA Short": 1.1445370695384962,
+        "Goals Conceeded EMA Short": 1.5553802934463827,
+        "Goals Scored EMA Long": 1.294439570458419,
+        "Goals Conceeded EMA Long": 1.3043550865220126
+    },
+    "Cameroon": {
+        "Elo": 1720.7831297643252,
+        "Num. Matches": 616,
+        "Goals Scored EMA Short": 1.105210661012984,
+        "Goals Conceeded EMA Short": 0.7704549396026321,
+        "Goals Scored EMA Long": 1.1974166694516033,
+        "Goals Conceeded EMA Long": 0.7402125604720036
+    },
+    "Benin": {
+        "Elo": 1555.1756327895596,
+        "Num. Matches": 323,
+        "Goals Scored EMA Short": 0.800590912923546,
+        "Goals Conceeded EMA Short": 1.1914654002206537,
+        "Goals Scored EMA Long": 0.8690376561422223,
+        "Goals Conceeded EMA Long": 1.2663601901009696
+    },
+    "Wallis Islands and Futuna": {
+        "Elo": 1295.707250688522,
+        "Num. Matches": 24,
+        "Goals Scored EMA Short": 0.8329584280249599,
+        "Goals Conceeded EMA Short": 6.562038309824197,
+        "Goals Scored EMA Long": 0.9573452975628484,
+        "Goals Conceeded EMA Long": 5.201454064899728
+    },
+    "Northern Mariana Islands": {
+        "Elo": 992.3953666405183,
+        "Num. Matches": 30,
+        "Goals Scored EMA Short": 1.3785845014654259,
+        "Goals Conceeded EMA Short": 3.3157774786240815,
+        "Goals Scored EMA Long": 1.0760596751935243,
+        "Goals Conceeded EMA Long": 3.8628767251066027
+    },
+    "Chad": {
+        "Elo": 1243.4577963688903,
+        "Num. Matches": 138,
+        "Goals Scored EMA Short": 1.0485346876088668,
+        "Goals Conceeded EMA Short": 2.0711233896978825,
+        "Goals Scored EMA Long": 0.7676257697042093,
+        "Goals Conceeded EMA Long": 1.9124788803386803
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+        "Elo": 1179.2482997171876,
+        "Num. Matches": 71,
+        "Goals Scored EMA Short": 0.5942114706906798,
+        "Goals Conceeded EMA Short": 2.51429703581802,
+        "Goals Scored EMA Long": 0.6005787499563362,
+        "Goals Conceeded EMA Long": 2.6000205442275957
+    },
+    "American Samoa": {
+        "Elo": 946.2347973071679,
+        "Num. Matches": 55,
+        "Goals Scored EMA Short": 0.6734081333058346,
+        "Goals Conceeded EMA Short": 5.712237593738738,
+        "Goals Scored EMA Long": 0.6419706361823748,
+        "Goals Conceeded EMA Long": 5.786254943896694
+    },
+    "Israel": {
+        "Elo": 1669.6587283963927,
+        "Num. Matches": 497,
+        "Goals Scored EMA Short": 1.8364217135828569,
+        "Goals Conceeded EMA Short": 1.9115856839897254,
+        "Goals Scored EMA Long": 1.7063334634970313,
+        "Goals Conceeded EMA Long": 1.9185405138813183
+    },
+    "Solomon Islands": {
+        "Elo": 1372.7402765361223,
+        "Num. Matches": 214,
+        "Goals Scored EMA Short": 1.516769949891279,
+        "Goals Conceeded EMA Short": 3.602811871806428,
+        "Goals Scored EMA Long": 1.5707154796536262,
+        "Goals Conceeded EMA Long": 2.672884462652041
+    },
+    "Maule Sur": {
+        "Elo": 1528.345836909456,
+        "Num. Matches": 2,
+        "Goals Scored EMA Short": 1.2559999999999998,
+        "Goals Conceeded EMA Short": 0.8959999999999999,
+        "Goals Scored EMA Long": 1.3240000000000003,
+        "Goals Conceeded EMA Long": 1.1340000000000001
+    },
+    "Saint Pierre and Miquelon": {
+        "Elo": 1286.2526070738795,
+        "Num. Matches": 7,
+        "Goals Scored EMA Short": 0.65360128,
+        "Goals Conceeded EMA Short": 9.719470080000002,
+        "Goals Scored EMA Long": 0.8596156600000001,
+        "Goals Conceeded EMA Long": 6.671343760000001
+    },
+    "Argentina": {
+        "Elo": 2159.5611104171808,
+        "Num. Matches": 1064,
+        "Goals Scored EMA Short": 2.801232720341573,
+        "Goals Conceeded EMA Short": 0.35055502527120663,
+        "Goals Scored EMA Long": 2.4124932509816404,
+        "Goals Conceeded EMA Long": 0.41156565268740786
+    },
+    "Papua New Guinea": {
+        "Elo": 1454.2926561528877,
+        "Num. Matches": 155,
+        "Goals Scored EMA Short": 1.726611358770918,
+        "Goals Conceeded EMA Short": 1.3211357854594667,
+        "Goals Scored EMA Long": 1.597436983647451,
+        "Goals Conceeded EMA Long": 1.5756131166822798
+    },
+    "Thailand": {
+        "Elo": 1535.1394435884874,
+        "Num. Matches": 863,
+        "Goals Scored EMA Short": 2.9145249946342675,
+        "Goals Conceeded EMA Short": 0.871160450451432,
+        "Goals Scored EMA Long": 2.498458681306045,
+        "Goals Conceeded EMA Long": 1.0005248297535914
+    },
+    "Jersey": {
+        "Elo": 1805.291469865379,
+        "Num. Matches": 235,
+        "Goals Scored EMA Short": 2.760863700044821,
+        "Goals Conceeded EMA Short": 1.3906140201006125,
+        "Goals Scored EMA Long": 2.7782894561917306,
+        "Goals Conceeded EMA Long": 1.0609943497462906
+    },
+    "Guernsey": {
+        "Elo": 1745.5562604554427,
+        "Num. Matches": 240,
+        "Goals Scored EMA Short": 1.6776433075734913,
+        "Goals Conceeded EMA Short": 0.8952717176286706,
+        "Goals Scored EMA Long": 1.9166955011365783,
+        "Goals Conceeded EMA Long": 0.916292382630179
+    },
+    "Zimbabwe": {
+        "Elo": 1470.0929614361114,
+        "Num. Matches": 494,
+        "Goals Scored EMA Short": 1.4816332676231485,
+        "Goals Conceeded EMA Short": 1.3435866312165383,
+        "Goals Scored EMA Long": 1.1335713762004807,
+        "Goals Conceeded EMA Long": 1.2990740872072668
+    },
+    "alpha_values": {
+        "short": 0.2,
+        "long": 0.1
+    }
+}
