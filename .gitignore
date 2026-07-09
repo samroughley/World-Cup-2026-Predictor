@@ -4,6 +4,13 @@ world_cup_env
 
 # Simulation files
 Monte Carlo Simulation/runs
+Advanced Monte Carlo Simulation/runs
 
 # Model states
 Modelling/XGBoost_regressor_model.json
+
+# Other files
+Advanced Monte Carlo Simulation/README.md
+
+# Old files / folders / structure
+zz*
