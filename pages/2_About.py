@@ -11,18 +11,18 @@ with st.sidebar:
 
 st.title("ℹ️ About")
 
-latext = r"""
-## How does the simulation work?
+simple_elo_method_latext = r"""
 
-This page will outline the workings of the current simulation.
-Note that I intend to work on and improve the simulation, and
-therefore this page will be updated accordingly.
-            
-Currently, the simulation is fairly simplistic, using only
-ELO scores to determine win probabilities for matches. This
-can explain some of the discrepencies between my predictions
-and those of Opta. I aim to develop a more robust model in
-future versions.
+When first starting this project, I used a simple simulation
+methodology that relied entirely on a team's Elo, sourced
+from `eloratings.net`. This was never intended to be a final
+or robust methodology, but rather served as a simpler 
+introduction to the project.
+
+Nonetheless, since the results were not too laughable, mainly
+due to the order of winning probabilities matching unsurprisingly close
+with Elo (and notably Opta), I have kept this discussion of the
+methodology for completeness.
             
 ### Group Stage
             
@@ -128,7 +128,7 @@ Once the qualifying teams have been determined, and the knockout
 bracket filled, the knockout stage is simulated. To determine the
 win probability of each team, the same ELO logic as above is applied.
 However, since draws are no longer possible, the rescaling for
-the draw probability is no longer performed. The winning te
+the draw probability is no longer performed.
 
 A large number of simulations is then performed, keeping track of the
 round each team reaches. The proportion of runs where a team
@@ -141,4 +141,21 @@ explicit handling of the entire space.
             
 """
 
-st.write(latext)
+
+XGBoost_method_latext = r"""
+## How does the simulation work?
+
+This page will outline the workings of the current simulation.
+Note that I intend to work on and improve the simulation, and
+therefore this page will be updated accordingly.
+
+            
+"""
+
+
+
+st.write(XGBoost_method_latext)
+
+st.divider()
+with st.expander("Simple Elo based Methodology"):
+    st.write(simple_elo_method_latext)
