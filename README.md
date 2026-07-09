@@ -6,7 +6,7 @@ An end-to-end project utilising an XGboost regressor and a custom Monte Carlo si
 
 <p><strong>Explore the Interactive Dashboard, containing the full simulation results and analysis, as well as a detailed technical overview of the simulation mechanics:</strong></p>
 
-<a href="https://prediction-markets-arbitrage.streamlit.app" target="_blank">
+<a href="https://samroughley-world-cup-2026-predictor.streamlit.app" target="_blank">
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" 
        alt="Streamlit App" 
        width="200"/>
@@ -99,3 +99,4 @@ World-Cup-2026-Predictor
 
 - [ ] Modify Streamlit dashboard to visualise the selected runs results
 - [ ] Modify Streamlit analysis to only show for my run, or hide text when using a different run
+- [ ] Finish technical overview on Streamlit
