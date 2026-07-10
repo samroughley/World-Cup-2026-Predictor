@@ -182,7 +182,7 @@ in the xgboost package: **Poisson modelling**.
 model = xgb.XGBRegressor(
     objective='count:poisson',  # the key feature
 
-    # Standard hyperparameters (starting point)
+    # Standard hyperparameters
     n_estimators=500,
     learning_rate=0.05,
     max_depth=5,
