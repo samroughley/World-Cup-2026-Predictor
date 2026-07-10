@@ -30,19 +30,19 @@ def parse_arguments():
     parser.add_argument(
         '--run_name',
         type=str,
-        default='first_run',
+        default='example_run',
         help='Name of the simulation run folder'
     )
     parser.add_argument(
         '--iterations',
         type=int,
-        default=10000,
+        default=1000,
         help='Total number of simulation iterations'
     )
     parser.add_argument(
         '--checkpoint_freq',
         type=int,
-        default=1000,
+        default=100,
         help='How many iterations before saving a checkpoint'
     )
 
